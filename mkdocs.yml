@@ -66,13 +66,17 @@ nav:
       - Pick the Correct Article: user-guide/nouns/correct-article/index.md
       - Singular / Plural: user-guide/nouns/singular-plural/index.md
       - Alternate Gender Pairs: user-guide/nouns/gender-pairs/index.md
-      - Recall Noun Gender: user-guide/nouns/recall-gender/index.md
-    - Words & Phrases:
-      - user-guide/words-phrases/index.md
-      - Select: user-guide/words-phrases/select/index.md
-      - Study: user-guide/words-phrases/study/index.md
-      - Test: user-guide/words-phrases/test/index.md
-    - Guided Lessons: user-guide/guided-lessons/index.md
+    - Phrases:
+      - user-guide/phrases/index.md
+      - Select Phrases: user-guide/phrases/select/index.md
+      - Browse Phrases: user-guide/phrases/study/index.md
+      - Phrase Meanings: user-guide/phrases/test/index.md
+    - Words:
+      - user-guide/words/index.md
+      - Select Words: user-guide/words/select/index.md
+      - Browse Words: user-guide/words/study/index.md
+      - Word Meanings: user-guide/words/test/index.md
+    - Guided Grammar Lessons: user-guide/guided-lessons/index.md
   - Privacy: privacy-policy.md
   - Terms: terms.md
   - Support: support.md

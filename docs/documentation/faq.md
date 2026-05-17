@@ -58,7 +58,7 @@ In the app, go to **Settings → Data → Reset Progress**. You can reset verbs 
 
 **Setup vs Study vs Test — what's the difference?**
 
-Each section (Verbs, Nouns, Words & Phrases) has three areas:
+Each section (Verbs, Nouns, Phrases, Words) has three areas:
 
 - **Setup** — define your word pool (which words can appear) and, for verbs, which tenses are active.
 - **Study** — browse-only reference: conjugation tables, word meaning lists, grammar notes. Nothing is recorded.

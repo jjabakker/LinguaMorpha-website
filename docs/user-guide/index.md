@@ -8,11 +8,12 @@ Welcome to the Spanish Coach User Guide. Use the navigation on the left to explo
 
 - **[Spanish Coach (Main Screen)](spanish-coach/)** — Your starting point. A quick tour of the home screen and how to navigate the app.
 - **[Settings](settings/)** — Global app preferences: interface language, native language, speech, session size, dictionary services, and data management.
-- **[Self Study](self-study/)** — Choose what to study: Verbs, Nouns, Words & Phrases.
+- **[Self Study](self-study/)** — Choose what to study: Verbs, Nouns, Phrases, or Words.
 - **[Verbs Coach](verbs/)** — Deep-dive into Spanish verbs with dedicated setup, study, and test modes.
 - **[Nouns Coach](nouns/)** — Practise gender, plurals, and alternate-gender pairs.
-- **[Words & Phrases](words-phrases/)** — Adjectives, adverbs, numbers, greetings, and everyday expressions.
-- **[Guided Lessons](guided-lessons/)** — Structured curriculum mode if you'd rather the app decide what to study next.
+- **[Phrases](phrases/)** — Set phrases and common Spanish expressions (greetings, time, social formulas).
+- **[Words](words/)** — Single-word vocabulary that isn't a verb or noun: adjectives, adverbs, prepositions, numbers.
+- **[Guided Grammar Lessons](guided-lessons/)** — Structured curriculum mode if you'd rather the app decide what to study next.
 
 ---
 
@@ -60,10 +61,15 @@ The Nouns Coach has the same Setup / Study / Test layout.
 - [Pick the Correct Article](nouns/correct-article/) — *el* or *la*?
 - [Singular / Plural](nouns/singular-plural/) — produce the plural form.
 - [Alternate Gender Pairs](nouns/gender-pairs/) — drill nouns that change meaning with the article.
-- [Recall Noun Gender](nouns/recall-gender/) — from the noun alone, recall masculine or feminine.
 
 ---
 
-## Words & Phrases at a glance
+## Phrases at a glance
 
-A simpler two-step section: [Select](words-phrases/select/) your set, then [Test](words-phrases/test/) with flashcards in either direction.
+Set phrases and multi-word expressions: [Select Phrases](phrases/select/) your set, [Browse Phrases](phrases/study/) for reference, then [Phrase Meanings](phrases/test/) flashcards in either direction.
+
+---
+
+## Words at a glance
+
+Single-word vocabulary that isn't a verb or noun: [Select Words](words/select/) your set, [Browse Words](words/study/), then [Word Meanings](words/test/) flashcards in either direction.

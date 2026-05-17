@@ -1,10 +1,10 @@
 ---
-description: Spanish Coach features — verb conjugation tables with irregular-form colour coding, six test types for verbs, noun gender and plural drills, Words & Phrases, and adaptive sessions.
+description: Spanish Coach features — verb conjugation tables with irregular-form colour coding, six test types for verbs, noun gender and plural drills, Phrases and Words vocabulary, and adaptive sessions.
 ---
 
 # Features
 
-Spanish Coach is a focused practice environment for three areas of the language: **verbs**, **nouns**, and **everyday words & phrases**. Every feature is designed around the same idea — make the rules of Spanish explicit, then drill them until they are automatic.
+Spanish Coach is a focused practice environment for four areas of the language: **verbs**, **nouns**, **phrases**, and **words**. Every feature is designed around the same idea — make the rules of Spanish explicit, then drill them until they are automatic.
 
 ---
 
@@ -44,9 +44,15 @@ The data is stored locally on your device. There is no cloud sync; tags survive 
 
 ---
 
-## Words & Phrases
+## Phrases and Words
 
-Around 540 vocabulary items that aren't verbs or nouns: adjectives, adverbs, prepositions, numbers, greetings, and common expressions. Adjective masculine/feminine pairs are merged automatically into a single entry. Practice is via **flashcards** in either direction.
+Vocabulary that isn't a verb or a noun lives in two separate sections.
+
+**Phrases** covers multi-word expressions — greetings (*buenos días*, *mucho gusto*), time and date expressions (*en punto*, *de vez en cuando*), and conversational chunks (*a pesar de*, *sin embargo*). Learned as units rather than word by word.
+
+**Words** covers single-word vocabulary that isn't a verb or noun — adjectives (with masculine/feminine pairs merged into one entry), adverbs, prepositions, conjunctions, and numbers. Filterable by grammatical category.
+
+Both sections follow the same Setup / Study / Test pipeline as Verbs and Nouns. Practice is via **flashcards** in either direction (Spanish ↔ your native language, or a random mix).
 
 ---
 
@@ -61,7 +67,7 @@ A **Learning Pace** setting (Relaxed / Balanced / Intensive) adjusts the balance
 
 ---
 
-## Guided Lessons
+## Guided Grammar Lessons
 
 A structured curriculum that combines vocabulary and grammar progressively. Lessons are tagged with CEFR levels and must be completed in order — each unlocks the next. Each lesson has a **Study** phase (browse the verbs, nouns, and expressions covered) and a **Practice** phase (run the relevant flashcards and drills). An *Include previous* toggle lets you mix in earlier lessons to keep older material fresh.
 

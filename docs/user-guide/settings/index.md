@@ -5,7 +5,7 @@ The Settings screen is where you set up the app to fit your study style — pick
 Open it from the **gear icon** at the top-right of the Spanish Coach main screen.
 
 !!! tip "Settings vs Setup"
-    "Settings" here refers to **global app preferences** — things that apply everywhere. Inside Verbs, Nouns, and Words & Phrases you'll also encounter a **Setup** phase, which means something different: it's where you pick the word pool (which verbs / nouns / expressions can appear in a session). The two are unrelated and live in different places.
+    "Settings" here refers to **global app preferences** — things that apply everywhere. Inside Verbs, Nouns, Phrases, and Words you'll also encounter a **Setup** phase, which means something different: it's where you pick the word pool (which verbs / nouns / phrases / words can appear in a session). The two are unrelated and live in different places.
 
 ---
 

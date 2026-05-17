@@ -13,9 +13,9 @@ When you open the app, you land on this main screen. From here you choose your l
 Two large buttons dominate the screen:
 
 - **Self Study** — for when you know what you want to practise. You decide which verbs, nouns, and tenses to work on, and which test type to run. This is the right entry point for most learners most of the time. See [Self Study](../self-study/).
-- **Guided Lessons** — a structured curriculum that decides what's next for you. Lessons are CEFR-tagged and must be completed in order; each unlocks the next. See [Guided Lessons](../guided-lessons/).
+- **Guided Grammar Lessons** — a structured curriculum that decides what's next for you. Lessons are CEFR-tagged and must be completed in order; each unlocks the next. See [Guided Grammar Lessons](../guided-lessons/).
 
-Both paths share the same underlying vocabulary database and adaptive engine — your progress in Self Study carries over to Guided Lessons and vice versa.
+Both paths share the same underlying vocabulary database and adaptive engine — your progress in Self Study carries over to Guided Grammar Lessons and vice versa.
 
 ---
 
@@ -24,7 +24,8 @@ Both paths share the same underlying vocabulary database and adaptive engine —
 **Right side** — global tools.
 
 - **Settings** (the gear icon) — open the global preferences screen: interface and native language, session size, learning pace, speech, dictionary services, and data management. See the [Settings page](../settings/) for everything that lives behind this icon.
-- **Help / User Guide** — opens the in-app help, which mirrors what you're reading right now.
+- **Help** (the **?** icon) — opens a short, screen-specific help sheet describing what the current screen does. Available on most screens throughout the app.
+- **User Guide** (the book icon) — opens the full user guide bundled into the app: the same content as this website, available offline.
 
 **Left side** — your performance.
 
@@ -35,7 +36,7 @@ Both paths share the same underlying vocabulary database and adaptive engine —
 ## UI conventions used throughout the app
 
 !!! tip "Tap vs long-press"
-    In most screens of the app, a quick **tap** triggers an action — start a session, flip a card, open a detail view. A **long-press** on a control gives you a short explanation of what that control does. If you're ever unsure what a button means, long-press it before tapping.
+    In most screens of the app, a quick **tap** triggers an action — start a session, flip a card, open a detail view. A **long-press** on a control gives you a short, in-place explanation of what that control does — the same content you'd get from tapping the **?** icon, but without leaving the screen. If you're ever unsure what a button means, long-press it before tapping.
 
 !!! info "Detail views are tappable"
     Many screens show words in a list or card form. Tapping a word almost always opens its **detail view** — translation, forms, level, frequency, topics, example sentences, and external dictionary lookup chips. Use it whenever a quick look would help you make sense of a word.

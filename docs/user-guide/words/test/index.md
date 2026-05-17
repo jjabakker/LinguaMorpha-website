@@ -1,19 +1,19 @@
-# Test Words and Phrases
+# Word Meanings
 
-The Words & Phrases test is a flashcard drill. A word or phrase appears in either Spanish or your native language; you recall the other side, then rate yourself.
+The Word Meanings test is a flashcard drill. A word appears in either Spanish or your native language; you recall the other side, then rate yourself.
 
 ---
 
 ## How a card works
 
-1. An entry appears on the front of the card.
+1. A word appears on the front of the card.
 2. Tap the card (or the **Show** button) to reveal the other side.
 3. Rate yourself with one of the three buttons:
     - **Correct** — you knew it without hesitation.
     - **Difficult** — you got there eventually, or were only partially right.
     - **Incorrect** — you did not know it or were wrong.
 
-Each entry appears exactly once per session.
+Each word appears exactly once per session.
 
 ---
 
@@ -35,13 +35,10 @@ For adjectives, the masculine and feminine forms are merged into a single entry 
 
 ## Audio
 
-The speaker icon plays the Spanish form using your selected iOS Spanish voice. Particularly useful for phrases — listening to a complete chunk like *de vez en cuando* spoken aloud helps the rhythm settle into memory.
+The speaker icon plays the Spanish form using your selected iOS Spanish voice. Pronunciation matters even for short adverbs and prepositions — *para* vs *por* gain meaning from emphasis and rhythm as much as from the letters.
 
 ---
 
 ## End of session
 
-After the last card, a summary shows your Correct / Difficult / Incorrect counts. From the summary you can:
-
-- **Repeat Session** — run the same set again.
-- **Back** — return to the Words & Phrases home; the next session picks the next-best N from your pool.
+After the last card, a summary shows your Correct / Difficult / Incorrect counts. From the summary you can repeat the session with the same set, or return to the Words home and let the engine pick the next-best N from your pool.

@@ -1,8 +1,10 @@
-# Guided Lessons
+# Guided Grammar Lessons
 
-Guided Lessons offer a **structured learning path**: lessons grouped into modules that must be completed in order — each lesson unlocks the next. No word selection or tense configuration is needed; the app has already decided what to study and in what sequence. Lessons are tagged with CEFR levels so you can see at a glance where each one sits on the difficulty scale.
+Guided Grammar Lessons offer a **structured learning path** through Spanish grammar, one tense at a time. Lessons are grouped into **modules** (themed groupings of related lessons) and tagged with CEFR levels so you can see at a glance where each one sits on the difficulty scale. Lessons within a module are completed in order — each one unlocks the next.
 
-Use Guided Lessons when you're not sure where to start, or when you want a coherent curriculum rather than free-form drilling.
+No word selection or tense configuration is needed; the app has already decided what to study and in what sequence.
+
+Use Guided Grammar Lessons when you're not sure where to start, or when you want a coherent curriculum rather than free-form drilling.
 
 ---
 
@@ -25,13 +27,13 @@ An **Include previous** toggle lets you broaden the practice pool to include all
 
 A lesson is marked complete when you have answered enough questions correctly to meet the threshold. The app will nudge you if you try to mark it done too early. Once complete, the next lesson in the module unlocks. You can tap **Mark done** again on a completed lesson to un-tick it if you want to revisit it.
 
-The home screen of Guided Lessons shows a progress pill — *N of M lessons complete* — so you always know where you are in the curriculum.
+The home screen of Guided Grammar Lessons shows a progress pill — *N of M lessons complete* — so you always know where you are in the curriculum. Modules are listed beneath, each showing how many of its lessons you have completed.
 
 ---
 
 ## When to switch to Self Study
 
-Guided Lessons are a great starting point and a good "checkpoint" tool. But if you find yourself wanting to:
+Guided Grammar Lessons are a great starting point and a good "checkpoint" tool. But if you find yourself wanting to:
 
 - spend longer on a specific tense or verb group,
 - drill a particular topic (food, travel, body, …) until it's automatic,

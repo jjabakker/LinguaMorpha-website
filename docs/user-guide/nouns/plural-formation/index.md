@@ -1,8 +1,9 @@
 # Plural Formation
 
-Spanish plurals are formed by adding **-s** or **-es** to the singular. The choice depends on the last letter of the singular form.
+Spanish plurals are formed by adding **-s** or **-es** to the singular. The choice depends on the last letter of the singular form. This page lays out the rules so you can produce the plural of any noun in your selection without guesswork.
 
-This Study screen lays out the rules so you can produce the plural of any noun in your selection without guesswork.
+!!! info "In-app status"
+    A dedicated **Plural formation rules** study screen inside the app is in development — at the moment its menu item shows a "Coming Soon" placeholder. The rules below are the same ones that the [Singular / Plural](../singular-plural/) test drills, so you can practise them today even before the study screen ships.
 
 ---
 

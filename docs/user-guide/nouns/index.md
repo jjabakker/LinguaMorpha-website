@@ -31,7 +31,6 @@ Active practice — every answer is recorded and feeds the adaptive engine.
 - [Pick the Correct Article](correct-article/) — choose *el* or *la* for each noun.
 - [Singular / Plural](singular-plural/) — given the singular, produce the correct plural.
 - [Alternate Gender Pairs](gender-pairs/) — practise nouns that change meaning with the article.
-- [Recall Noun Gender](recall-gender/) — from the noun alone (no article), recall whether it is masculine or feminine.
 
 ---
 

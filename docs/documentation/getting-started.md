@@ -1,5 +1,5 @@
 ---
-description: From install to running your first Spanish Coach drill in five minutes — set up voices, pick Self Study or Guided Lessons, and run a first session.
+description: From install to running your first Spanish Coach drill in five minutes — set up voices, pick Self Study or Guided Grammar Lessons, and run a first session.
 ---
 
 # Getting Started with Spanish Coach
@@ -31,15 +31,15 @@ Spanish Coach speaks Spanish words and forms aloud using iOS speech synthesis. i
 
 ---
 
-## 3. Decide: Self Study or Guided Lessons?
+## 3. Decide: Self Study or Guided Grammar Lessons?
 
 Spanish Coach offers two modes.
 
 **Self Study** is for when you know what you want to drill — a specific tense, a vocabulary theme, a grammar group. You decide which words and tenses are in play, then run the test that fits.
 
-**Guided Lessons** is for when you want a structured curriculum that decides what to study next for you. Lessons unlock in order and combine vocabulary and grammar progressively.
+**Guided Grammar Lessons** is for when you want a structured curriculum that decides what to study next for you. Lessons unlock in order and combine vocabulary and grammar progressively.
 
-If you're new to Spanish or unsure where to start, begin with **Guided Lessons**. If you have a specific goal — say, getting the pretérito indefinido automatic — **Self Study** is the right tool.
+If you're new to Spanish or unsure where to start, begin with **Guided Grammar Lessons**. If you have a specific goal — say, getting the pretérito indefinido automatic — **Self Study** is the right tool.
 
 ---
 
@@ -81,3 +81,6 @@ For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEF
 - [Explore Features →](features.md)
 - [Frequently Asked Questions →](faq.md)
 - [Full User Guide →](../user-guide/)
+
+!!! tip "Help inside the app"
+    Most screens have a **?** icon at the top right that opens a short, screen-specific help sheet. A **book icon** on the home screen opens the full user guide — the same content as this website, but bundled into the app so it works offline. And on most controls, a **long-press** gives you a quick in-place explanation without leaving the screen.

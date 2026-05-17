@@ -58,13 +58,13 @@ Tap the speaker on any card to hear the form. Spanish Coach uses iOS speech synt
 
 ---
 
-## Self Study or Guided Lessons?
+## Self Study or Guided Grammar Lessons?
 
 Spanish Coach offers two ways to work.
 
 **Self Study** puts you in full control. You decide which words to practise, which tenses to include, and which exercises to use. Best when you have a specific goal — a particular tense, a vocabulary theme, or a grammar point you want to drill.
 
-**Guided Lessons** follow a fixed, structured path. The app introduces vocabulary and grammar in a coherent sequence — no configuration required. Best if you're not sure where to start.
+**Guided Grammar Lessons** follow a fixed, structured path. The app introduces vocabulary and grammar in a coherent sequence — no configuration required. Best if you're not sure where to start.
 
 [Read the User Guide →](user-guide/){ .md-button }
 

@@ -23,7 +23,7 @@ A visual tour of Spanish Coach — every major screen in the app.
 <div class="screenshot-item">
 <img src="self-study.png" alt="Self Study" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Self Study</strong>
-<p>Choose Verbs, Nouns, Words & Phrases, or Guided Lessons.</p>
+<p>Choose Verbs, Nouns, Phrases, or Words.</p>
 </div>
 
 </div>
