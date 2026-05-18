@@ -41,6 +41,7 @@ nav:
     - FAQ: documentation/faq.md
   - User Guide:
     - Main Screen: user-guide/spanish-coach/index.md
+    - My Progress: user-guide/progress/index.md
     - Settings: user-guide/settings/index.md
     - Self Study: user-guide/self-study/index.md
     - Verbs:

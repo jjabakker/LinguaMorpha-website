@@ -60,6 +60,8 @@ The other approach to selecting verbs is by their grammatical character. Many ve
 
 Each verb group category contains two or more verb groups. You can include or exclude a particular verb group by tapping the check box.
 
+The **Stem Changes** category includes the four classic stem-change patterns plus the **iar/uar accent-shift** group — verbs like *enviar*, *confiar*, *actuar*, *continuar* where the stem vowel takes a written accent in the present indicative and present subjunctive (*envío*, *actúe*) to mark where the spoken stress falls. *Nosotros* and *vosotros* keep the regular ending and no accent.
+
 !!! tip "User Interface Tip"
     Swiping left on a verb group displays an explanation of the verb group.
 

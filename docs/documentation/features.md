@@ -101,8 +101,7 @@ You decide which services appear in the row. The toggles live in **Settings → 
 
 A few settings let you tune how the app fits your study habit:
 
-- **Interface Language** — switch the app between English and Dutch.
-- **Native Language** — the language Spanish words are translated into on flashcards and word lists.
+- **Language** — a single toggle (🇬🇧 / 🇳🇱) flips both the app's chrome and the translations on flashcards between English and Dutch.
 - **Session Size** — how many words appear in each session: 10, 20, 30, 50, or All.
 - **Learning Pace** — *Relaxed*, *Balanced*, or *Intensive*. Biases the balance between new vocabulary and review.
 - **Auto-advance** — when on, a correct answer moves to the next card after a short pause.

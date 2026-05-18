@@ -71,8 +71,9 @@ For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEF
 
 ## 6. Check your progress
 
-!!! note "Coming soon"
-    A progress overview screen — showing accuracy, words practised, active study days, weakest words and strongest words — is in development. This section will be filled in once it ships.
+After a week or two of regular practice, tap the **chart icon** on the top left of the main screen to open **My Progress**. You'll see a calendar-month activity heatmap (darker squares = more answers that day), a Coverage view showing how much of each catalogue you've touched, an Accuracy breakdown by exercise type and tense and verb group, a Word Performance list of weakest words to focus on, and time-series Trends.
+
+You can also share a full progress report as a PDF from the share icon on that screen. See the [My Progress page](../user-guide/progress/) for the full tour.
 
 ---
 

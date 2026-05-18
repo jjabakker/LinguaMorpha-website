@@ -11,12 +11,13 @@ Open it from the **gear icon** at the top-right of the Spanish Coach main screen
 
 ## Language
 
-- **Interface Language** — switches the entire app between English and Dutch.
-- **Native Language** — the language Spanish words are translated into on flashcards and word lists. Independent of Interface Language: you can run the app in English while studying with Dutch translations, or vice versa.
+A single **Language** picker (🇬🇧 / 🇳🇱) controls both the language of the app's chrome (titles, menus, buttons) **and** the language Spanish words are translated into on flashcards and word lists. Pick English or Dutch; everything else flips with it. Earlier versions had two separate switches for these — the simpler single picker replaced them.
 
 ---
 
-## Sessions
+## Study Session
+
+The Study Session sub-screen groups the per-session controls.
 
 - **Session Size** — how many words appear in one sitting: 10, 20, 30, 50, or All. Affects all Test screens.
 - **Learning Pace** — *Relaxed*, *Balanced*, or *Intensive*. Biases how aggressively the app introduces new vocabulary versus reviewing words you've already seen. Relaxed front-loads review; Intensive front-loads new material.

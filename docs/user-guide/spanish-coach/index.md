@@ -29,7 +29,7 @@ Both paths share the same underlying vocabulary database and adaptive engine —
 
 **Left side** — your performance.
 
-- A small chart icon opens an overview of your study history: total words practised, accuracy by section, your **weakest words** (those you keep getting wrong) and **strongest words** (consistently correct). Useful for spotting patterns and deciding what to put more time into.
+- The **chart icon** opens **My Progress**, a multi-section overview of your study history: a calendar-month activity heatmap, a Coverage report showing how much of each catalogue you've touched, an Accuracy report broken down by exercise / tense / person / verb group, a Word Performance list of weakest words to focus on next, and a Trends screen with time-windowed charts. You can also share a full progress report as a PDF from the share icon on that screen. See the [My Progress page](../progress/) for the full tour.
 
 ---
 
@@ -43,6 +43,25 @@ Both paths share the same underlying vocabulary database and adaptive engine —
 
 ---
 
+## Selection summary card
+
+At the bottom of the main screen sits a small **selection summary** card. It shows, at a glance, how much of each catalogue is currently in play:
+
+- **Verbs** — *N selected / total available*
+- **Tenses** — *N of all tenses*
+- **Nouns** — *N selected / total available*
+- **Words** — *N selected / total available*
+- **Phrases** — *N selected / total available*
+
+Tap any row to jump straight to the matching Select screen for that catalogue. The card has a small **filter pill** at the top right — tap it to switch between:
+
+- **All items selected** — sessions can draw from the entire catalogue, ignoring your Select... filters. Useful for casual practice when you don't want to think about scope.
+- **Filtered selection** — sessions only draw from what your filters allow. The counts on this card swap to show the filtered totals.
+
+The toggle is sticky, so the app remembers your preference between launches.
+
+---
+
 ## What happens on first launch
 
-The first time you open Spanish Coach, all filters are wide open: every word, every tense, every topic. You can start a test immediately, but you'll get more out of the app if you spend a minute in **Self Study → Setup** narrowing the pool to material at your level. The app remembers your choices, so you only do this once.
+The first time you open Spanish Coach, all filters are wide open: every word, every tense, every topic. You can start a test immediately, but you'll get more out of the app if you spend a minute narrowing the pool to material at your level — tap any row on the selection summary card to open its Select screen and refine the filters. The app remembers your choices, so you only do this once.
