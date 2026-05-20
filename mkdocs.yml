@@ -38,6 +38,8 @@ nav:
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md
+    - Grammar Coverage: documentation/grammar-coverage.md
+    - Recipes: documentation/recipes.md
     - FAQ: documentation/faq.md
   - User Guide:
     - Main Screen: user-guide/spanish-coach/index.md

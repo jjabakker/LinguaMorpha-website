@@ -64,9 +64,9 @@ Spanish Coach offers two ways to work.
 
 **Self Study** puts you in full control. You decide which words to practise, which tenses to include, and which exercises to use. Best when you have a specific goal — a particular tense, a vocabulary theme, or a grammar point you want to drill.
 
-**Guided Grammar Lessons** follow a fixed, structured path. The app introduces vocabulary and grammar in a coherent sequence — no configuration required. Best if you're not sure where to start.
+**Guided Grammar Lessons** follow a fixed, structured path — split into two parallel catalogues, **Verb Grammar Lessons** and **Noun Grammar Lessons**, so you can work on each independently. No configuration required. Best if you're not sure where to start.
 
-[Read the User Guide →](user-guide/){ .md-button }
+[Read the User Guide →](user-guide/){ .md-button } [See the Grammar Coverage →](documentation/grammar-coverage.md){ .md-button } [Recipes →](documentation/recipes.md){ .md-button }
 
 ---
 

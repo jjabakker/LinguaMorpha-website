@@ -2,17 +2,46 @@
 
 Spanish Coach includes around 1,100 Spanish nouns. The Select Nouns screen lets you narrow these down to exactly the set you want to practise.
 
-You can combine filters freely — for example **A1 + A2, Very Common + Common, Food + Home** gives you a focused set of everyday household and food vocabulary at beginner level.
+A segmented **mode picker** at the top of the screen switches between two complementary ways of selecting:
+
+- **Criteria** — filter by CEFR level, frequency, and topic (the standard vocabulary lens).
+- **Noun Groups** — filter by grammatical pattern: gender traps, plural class, plurale-tantum, alternate-gender pairs, false cognates, and more (the linguistic lens).
+
+You can combine filters freely within a mode — for example **A1 + A2, Very Common + Common, Food + Home** gives you a focused set of everyday household and food vocabulary at beginner level.
 
 ---
 
-## Filters
+## Criteria tab
 
 - **CEFR Level** — A1 (Beginner) through C2 (Mastery). You can include one level only, or every level up to a chosen ceiling. Most learners starting out will want A1 and A2.
 - **Frequency** — Very Common, Common, or Less Common. Use this to keep your pool focused on everyday vocabulary.
 - **Topic** — limit to one or more categories: home, food, body, work, travel, technology, … The Topic list also includes any **personal topics** you have added yourself (see [Personal topics](#personal-topics) below).
 
 The screen always shows how many nouns match your current filters. Tap **Matching nouns** to browse the full list before confirming.
+
+---
+
+## Noun Groups tab
+
+The Noun Groups tab lets you select nouns by **grammatical character** instead of vocabulary scope. This is where Spanish Coach's noun taxonomy comes into its own — a single noun can belong to several groups at once (e.g. *lápiz* is both `z → -ces` and accent-loss-in-plural), so a group filter gives you a focused drill on exactly the patterns you want to lock in.
+
+The groups are organised into a few families:
+
+**Gender patterns** — nouns whose gender disagrees with what the ending would predict (the "gender traps"), the closed Greek-origin masculine -ema/-ama/-oma set, the regular feminine-suffix and masculine-suffix patterns, and the stressed-*a* feminine nouns that take *el* in the singular (*el agua*, *el águila*).
+
+**Pair shapes** — nouns that come in masculine/feminine pairs (*el tío* / *la tía*), epicene nouns with a single form for both genders (*la persona*), nouns whose meaning changes with the article (*el capital* / *la capital*), and heteronymous pairs (entirely different words for the masculine and feminine form: *padre* / *madre*).
+
+**Plural class** — invariable nouns (the plural form equals the singular), mass nouns (typically used only in the singular), plurale-tantum nouns (only used in the plural, like *los pantalones*), and collective nouns whose plural references the pair (*los tíos* = *el tío* + *la tía*).
+
+**Plural formation** — the mechanical patterns: *z → -ces* (lápiz → lápices), accent loss in the plural (canción → canciones), consonant + -es endings, and the small set with a stem change in the plural.
+
+**Pedagogical** — false cognates (Spanish words that look like English but mean something different), and a catch-all *regular* group for nouns with no special pattern.
+
+Same interaction as Select Verbs:
+
+- Tap a noun group's name to read a full explanation sheet.
+- Swipe left on a group to see a short summary.
+- Swipe right to see the list of nouns that belong to it.
 
 ---
 

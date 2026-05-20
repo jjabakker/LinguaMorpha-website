@@ -10,12 +10,13 @@ When you open the app, you land on this main screen. From here you choose your l
 
 ## Choosing a learning path
 
-Two large buttons dominate the screen:
+Three large cards dominate the screen:
 
-- **Self Study** — for when you know what you want to practise. You decide which verbs, nouns, and tenses to work on, and which test type to run. This is the right entry point for most learners most of the time. See [Self Study](../self-study/).
-- **Guided Grammar Lessons** — a structured curriculum that decides what's next for you. Lessons are CEFR-tagged and must be completed in order; each unlocks the next. See [Guided Grammar Lessons](../guided-lessons/).
+- **Self Study** — for when you know what you want to practise. You decide which verbs, nouns, phrases, and words are in play, and which test type to run. This is the right entry point for most learners most of the time. See [Self Study](../self-study/).
+- **Verb Grammar Lessons** — a structured curriculum focused on verb conjugation: tenses, irregular patterns, stem changes, ser vs estar, the preterites, and so on. Lessons are grouped into modules. See [Guided Grammar Lessons](../guided-lessons/).
+- **Noun Grammar Lessons** — a separate curriculum for noun grammar: gender, plural formation, alternate-gender pairs, and the patterns that catch learners out. Same module structure as the verb catalogue, different content.
 
-Both paths share the same underlying vocabulary database and adaptive engine — your progress in Self Study carries over to Guided Grammar Lessons and vice versa.
+All three paths share the same underlying vocabulary database and adaptive engine — your progress in Self Study carries over to Guided Grammar Lessons and vice versa.
 
 ---
 
@@ -43,25 +44,6 @@ Both paths share the same underlying vocabulary database and adaptive engine —
 
 ---
 
-## Selection summary card
-
-At the bottom of the main screen sits a small **selection summary** card. It shows, at a glance, how much of each catalogue is currently in play:
-
-- **Verbs** — *N selected / total available*
-- **Tenses** — *N of all tenses*
-- **Nouns** — *N selected / total available*
-- **Words** — *N selected / total available*
-- **Phrases** — *N selected / total available*
-
-Tap any row to jump straight to the matching Select screen for that catalogue. The card has a small **filter pill** at the top right — tap it to switch between:
-
-- **All items selected** — sessions can draw from the entire catalogue, ignoring your Select... filters. Useful for casual practice when you don't want to think about scope.
-- **Filtered selection** — sessions only draw from what your filters allow. The counts on this card swap to show the filtered totals.
-
-The toggle is sticky, so the app remembers your preference between launches.
-
----
-
 ## What happens on first launch
 
-The first time you open Spanish Coach, all filters are wide open: every word, every tense, every topic. You can start a test immediately, but you'll get more out of the app if you spend a minute narrowing the pool to material at your level — tap any row on the selection summary card to open its Select screen and refine the filters. The app remembers your choices, so you only do this once.
+The first time you open Spanish Coach, all filters are wide open: every word, every tense, every topic. You can start a test immediately, but you'll get more out of the app if you spend a minute in **Self Study** narrowing the pool — open Verbs / Nouns / Phrases / Words in turn, tap **Select…** at the top of each, and pick what's appropriate for your level (a good starting point: A1 + A2, Very Common frequency). The app remembers your choices, so you only do this once.
