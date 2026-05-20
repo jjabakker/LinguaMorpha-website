@@ -47,5 +47,5 @@ Each session, the app picks the best N phrases from your pool, prioritising unse
 - The **Example** topic toggle is the most consequential filter on this screen — it controls whether the ~5,700 synthesised example sentences are in your pool. Off = curated set phrases only (~240, very focused); on = the full ~6,000 pool with the example sentences from your verb and noun catalogues mixed in.
 - Phrases are best learned as units, not word-by-word. Don't try to translate inside *de vez en cuando* — learn it as one chunk.
 
-!!! note "CEFR level on synthesised sentences"
-    The CEFR and frequency filters work as expected on curated phrases, but synthesised example sentences carry a placeholder A1 / common tag rather than inheriting their parent verb or noun's level. If you want to scope by difficulty, the Topic filter and the **Example** toggle give you finer control than CEFR for this section.
+!!! tip "CEFR and Frequency on synthesised sentences"
+    Synthesised example sentences inherit CEFR level and frequency from their parent verb or noun. So *"Aprovecho el sol cuando puedo"* (from *aprovechar*, B2) appears at B2 in your filters; *"Tomo café por la mañana"* (from *tomar*, A1) appears at A1. The Phrases pool stratifies cleanly across all six CEFR levels, with roughly 12% at A1, 12% at A2, 20% at B1, 22% at B2, 14% at C1, and 20% at C2.
