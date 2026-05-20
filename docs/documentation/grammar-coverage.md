@@ -158,6 +158,16 @@ Like verbs, Spanish nouns cluster into recognisable patterns. A noun typically b
 
 ---
 
+## Phrases and example sentences
+
+Curated set phrases — *buenos días*, *de vez en cuando*, *encantado*, *a pesar de* — get their own section in the app. Around 240 of them, hand-tagged with CEFR level, frequency, and topic.
+
+But the real depth comes from how the app reuses its example-sentence corpus. Every example sentence attached to a verb (around 2,400 sentences across ~800 verbs, three per verb) or a noun (around 3,300 sentences across ~1,100 nouns) is also drillable as its own phrase. That brings the Phrases pool to around **6,000 entries** — every complete Spanish sentence the app already shows you in a detail view becomes something you can practice on its own.
+
+A dedicated **Example** topic tag lets you toggle that whole synthesised layer on or off in a single tap, so you can drill curated set phrases in isolation or include the full corpus.
+
+---
+
 ## The adaptive engine
 
 Coverage is only half the story. What makes Spanish Coach feel different is that the app **uses what it knows about you** to decide what to drill next:

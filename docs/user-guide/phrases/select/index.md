@@ -1,6 +1,6 @@
 # Select Phrases
 
-The Select Phrases screen lets you narrow down the Phrase pool to the set you want to practise. The screen shows a live count of how many phrases match your current filters.
+The Select Phrases screen lets you narrow down the Phrase pool to the set you want to practise. The pool has around **6,000 entries** — about 240 curated set phrases plus ~5,700 example sentences synthesised from your verb and noun catalogues. The screen shows a live count of how many phrases match your current filters.
 
 ---
 
@@ -16,13 +16,17 @@ Tap **Matching phrases** to browse the full list before confirming the selection
 
 ## What's in the Phrases set?
 
-Multi-word chunks of Spanish you'd use as units in conversation:
+**Curated set phrases** — multi-word chunks of Spanish you'd use as units in conversation:
 
 - **Greetings and social phrases** — *buenos días*, *mucho gusto*, *encantado* / *encantada*, *de nada*, *con permiso*, …
 - **Time and date expressions** — *en punto*, *hace falta*, *de vez en cuando*, *a partir de*, …
 - **Common conversational chunks** — *a pesar de*, *sin embargo*, *por lo menos*, *desde luego*, …
 
-Single words like adjectives, adverbs, and prepositions live in the [Words](../../words/) section instead.
+**Synthesised example sentences** — every example sentence attached to a verb or noun in the bundled catalogues. *"Soy de España, pero vivo en Holanda"* (from *ser*), *"Quiero comprar una manzana"* (from *manzana*), and so on — thousands of complete Spanish sentences, each drillable on its own.
+
+Synthesised sentences are tagged with a special **"Example"** topic in addition to any topics they inherit from the parent verb or noun. That makes them easy to toggle on or off as a single bucket: untick **Example** in the Topic filter to drill only the curated set phrases, or tick **only Example** to drill nothing but real-world sentences.
+
+Single words like adjectives, adverbs, and prepositions live in the [Other Vocabulary](../../words/) section instead.
 
 ---
 
@@ -40,4 +44,8 @@ Each session, the app picks the best N phrases from your pool, prioritising unse
 ## Tips
 
 - Topic filtering is especially useful here. Going on a trip? Restrict to **Travel + Greetings** for a focused phrase pool.
+- The **Example** topic toggle is the most consequential filter on this screen — it controls whether the ~5,700 synthesised example sentences are in your pool. Off = curated set phrases only (~240, very focused); on = the full ~6,000 pool with the example sentences from your verb and noun catalogues mixed in.
 - Phrases are best learned as units, not word-by-word. Don't try to translate inside *de vez en cuando* — learn it as one chunk.
+
+!!! note "CEFR level on synthesised sentences"
+    The CEFR and frequency filters work as expected on curated phrases, but synthesised example sentences carry a placeholder A1 / common tag rather than inheriting their parent verb or noun's level. If you want to scope by difficulty, the Topic filter and the **Example** toggle give you finer control than CEFR for this section.

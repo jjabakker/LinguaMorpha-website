@@ -48,7 +48,7 @@ The data is stored locally on your device. There is no cloud sync; tags survive 
 
 Vocabulary that isn't a verb or a noun lives in two separate sections.
 
-**Phrases** covers multi-word expressions — greetings (*buenos días*, *mucho gusto*), time and date expressions (*en punto*, *de vez en cuando*), and conversational chunks (*a pesar de*, *sin embargo*). Learned as units rather than word by word.
+**Phrases** is the largest drillable pool in the app — around **6,000 entries**. It combines ~240 curated set phrases (greetings like *buenos días* and *mucho gusto*, time expressions like *en punto* and *de vez en cuando*, conversational chunks like *a pesar de* and *sin embargo*) with ~5,700 example sentences synthesised from the verb and noun catalogues. Every example sentence you'd see on a verb or noun detail card is also drillable here as its own phrase. Toggle the **Example** topic to switch the synthesised layer on or off as a single bucket.
 
 **Words** covers single-word vocabulary that isn't a verb or noun — adjectives (with masculine/feminine pairs merged into one entry), adverbs, prepositions, conjunctions, and numbers. Filterable by grammatical category.
 
