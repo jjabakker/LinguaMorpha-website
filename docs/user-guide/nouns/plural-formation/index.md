@@ -25,7 +25,7 @@ Adding *-es* to a noun ending in a consonant sometimes shifts the syllable count
 - *canción → canciones* — accent **disappears** because the new last syllable is no longer accented
 - *joven → jóvenes* — accent **appears** for the same reason as *examen*
 
-The rule is mechanical, but it catches learners out. Spanish Coach's [Singular / Plural](../singular-plural/) drill includes plenty of these to lock in the pattern.
+The rule is mechanical, but it catches learners out. LinguaMorpha's [Singular / Plural](../singular-plural/) drill includes plenty of these to lock in the pattern.
 
 ---
 

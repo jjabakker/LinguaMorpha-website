@@ -10,7 +10,7 @@ The Singular / Plural drill tests one specific skill: given a noun in the singul
 2. Type the **plural form** (with the plural article — *las canciones*).
 3. Submit. The app checks your answer:
     - **Exact match** — counted as correct.
-    - **Match with accent / case differences** — accepted (Spanish Coach normalises accents on input).
+    - **Match with accent / case differences** — accepted (LinguaMorpha normalises accents on input).
     - **Wrong** — the correct form is shown and you can study it.
 
 The deck includes a mix of:
@@ -25,7 +25,7 @@ The deck includes a mix of:
 
 ## What you need to type
 
-Spanish Coach is lenient about accidentals but strict about meaning:
+LinguaMorpha is lenient about accidentals but strict about meaning:
 
 - Accent **placement** matters — *cancion* alone won't be accepted as a plural form.
 - The **article** matters — *canciones* without *las* is incomplete.

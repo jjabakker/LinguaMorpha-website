@@ -2,7 +2,7 @@
 
 The Settings screen is where you set up the app to fit your study style — pick your interface and native language, choose a Spanish voice, decide how big each session should be, control which external dictionaries appear in the Look up row, and manage your study data.
 
-Open it from the **gear icon** at the top-right of the Spanish Coach main screen.
+Open it from the **gear icon** at the top-right of the LinguaMorpha main screen.
 
 !!! tip "Settings vs Setup"
     "Settings" here refers to **global app preferences** — things that apply everywhere. Inside Verbs, Nouns, Phrases, and Words you'll also encounter a **Setup** phase, which means something different: it's where you pick the word pool (which verbs / nouns / phrases / words can appear in a session). The two are unrelated and live in different places.
@@ -45,7 +45,7 @@ Verb and noun detail views show a **Look up** row with chip buttons for four wel
 - **Reverso** — contextual translations and conjugation tables.
 - **RAE** — the Real Academia Española, the authoritative monolingual Spanish dictionary.
 
-Tap a chip and the lookup opens in an in-app Safari sheet — you don't leave Spanish Coach.
+Tap a chip and the lookup opens in an in-app Safari sheet — you don't leave LinguaMorpha.
 
 The toggles in **Settings → Dictionary Services** let you choose which of the four appear in the row. **All four are enabled by default, and we suggest leaving them all on initially** — every one of these sites is free to use and requires no account, so there's no cost to keeping the full set available. Once you've used the app for a while and you know which one or two you actually reach for, switch off the rest to keep the row compact. If you disable all four, the Look up row hides entirely.
 

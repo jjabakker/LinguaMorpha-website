@@ -1,8 +1,8 @@
 ---
-description: From install to running your first Spanish Coach drill in five minutes — set up voices, pick Self Study or Guided Grammar Lessons, and run a first session.
+description: From install to running your first LinguaMorpha drill in five minutes — set up voices, pick Self Study or Guided Grammar Lessons, and run a first session.
 ---
 
-# Getting Started with Spanish Coach
+# Getting Started with LinguaMorpha
 
 This page gets you from "just installed" to "running your first useful drill" in a few minutes. For a deeper tour of every screen, see the [User Guide](../user-guide/).
 
@@ -10,30 +10,30 @@ This page gets you from "just installed" to "running your first useful drill" in
 
 ## 1. Install the app
 
-Spanish Coach is available for iPhone and iPad.
+LinguaMorpha is available for iPhone and iPad.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="../../assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
 **Requirements:** iOS 16.0 or later.
 
-Spanish Coach stores all your data on the device — there is no account to create, no sign-in, and no sync to the cloud. You can start using it the moment it finishes installing.
+LinguaMorpha stores all your data on the device — there is no account to create, no sign-in, and no sync to the cloud. You can start using it the moment it finishes installing.
 
 ---
 
 ## 2. Set up speech (one-time, strongly recommended)
 
-Spanish Coach speaks Spanish words and forms aloud using iOS speech synthesis. iOS includes Spanish voices at three quality levels — **Standard** (installed by default, sounds robotic), **Enhanced**, and **Premium**. The Enhanced and Premium voices are free to download and sound dramatically better.
+LinguaMorpha speaks Spanish words and forms aloud using iOS speech synthesis. iOS includes Spanish voices at three quality levels — **Standard** (installed by default, sounds robotic), **Enhanced**, and **Premium**. The Enhanced and Premium voices are free to download and sound dramatically better.
 
 1. Open the iOS **Settings** app.
 2. Go to **Accessibility → Spoken Content → Voices → Spanish**.
 3. Choose a region (Spain, Mexico, Latin America, …) and tap the download icon next to any voice marked **Enhanced** or **Premium**. The download is a few hundred megabytes — use Wi-Fi.
-4. Back in Spanish Coach, tap the **gear icon → Speech** and pick the voice you just downloaded.
+4. Back in LinguaMorpha, tap the **gear icon → Speech** and pick the voice you just downloaded.
 
 ---
 
 ## 3. Decide: Self Study or Guided Grammar Lessons?
 
-Spanish Coach offers two modes.
+LinguaMorpha offers two modes.
 
 **Self Study** is for when you know what you want to drill — a specific tense, a vocabulary theme, a grammar group. You decide which words and tenses are in play, then run the test that fits.
 

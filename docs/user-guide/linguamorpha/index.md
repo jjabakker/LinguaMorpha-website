@@ -1,7 +1,7 @@
-# Spanish Coach
+# LinguaMorpha
 
 <div class="screenshot-annotated">
-<img src="../../screenshots/main-screen.png" alt="Spanish Coach Main Screen" width="1320" height="2868" loading="lazy" decoding="async">
+<img src="../../screenshots/main-screen.png" alt="LinguaMorpha Main Screen" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 When you open the app, you land on this main screen. From here you choose your learning path and reach the global tools.
@@ -46,4 +46,4 @@ All three paths share the same underlying vocabulary database and adaptive engin
 
 ## What happens on first launch
 
-The first time you open Spanish Coach, all filters are wide open: every word, every tense, every topic. You can start a test immediately, but you'll get more out of the app if you spend a minute in **Self Study** narrowing the pool — open Verbs / Nouns / Phrases / Words in turn, tap **Select…** at the top of each, and pick what's appropriate for your level (a good starting point: A1 + A2, Very Common frequency). The app remembers your choices, so you only do this once.
+The first time you open LinguaMorpha, all filters are wide open: every word, every tense, every topic. You can start a test immediately, but you'll get more out of the app if you spend a minute in **Self Study** narrowing the pool — open Verbs / Nouns / Phrases / Words in turn, tap **Select…** at the top of each, and pick what's appropriate for your level (a good starting point: A1 + A2, Very Common frequency). The app remembers your choices, so you only do this once.

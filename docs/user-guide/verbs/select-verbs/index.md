@@ -1,6 +1,6 @@
 # Selecting Verbs
 
-Spanish Coach includes nearly 800 Spanish verbs. The Select Verbs screen lets you narrow these down to exactly the set you want to practise. There are two different methods to select:
+LinguaMorpha includes nearly 800 Spanish verbs. The Select Verbs screen lets you narrow these down to exactly the set you want to practise. There are two different methods to select:
 
 - Specify criteria such as difficulty, frequency, and topic.
 - Select verbs based on their grammatical character.

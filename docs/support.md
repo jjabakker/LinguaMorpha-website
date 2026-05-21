@@ -1,5 +1,5 @@
 ---
-description: Help and support for Spanish Coach — common issues, how to send a bug report, how to reset progress, and how to contact us.
+description: Help and support for LinguaMorpha — common issues, how to send a bug report, how to reset progress, and how to contact us.
 ---
 
 # Support
@@ -34,7 +34,7 @@ Before reaching out, check if your question is answered in our documentation:
 
     **iOS Settings → Accessibility → Spoken Content → Voices → Spanish**
 
-    Pick a region (Spain, Mexico, Latin America, …) and tap the download icon next to any Enhanced or Premium voice. Back in Spanish Coach, tap the **gear icon → Speech** and select the voice you just downloaded.
+    Pick a region (Spain, Mexico, Latin America, …) and tap the download icon next to any Enhanced or Premium voice. Back in LinguaMorpha, tap the **gear icon → Speech** and select the voice you just downloaded.
 
 ??? question "I want to reset my progress"
     In the app, go to **Settings → Data → Reset Progress**. You can reset verbs only, nouns only, or everything at once. Your word-selection filters are kept.
@@ -48,7 +48,7 @@ Before reaching out, check if your question is answered in our documentation:
 
 If you can't find what you're looking for, email us and we'll get back to you within **1–2 business days**.
 
-**Email:** [support@spanishcoach.app](mailto:support@spanishcoach.app)
+**Email:** [support@linguamorpha.nl](mailto:support@linguamorpha.nl)
 
 When emailing, please include:
 
@@ -63,9 +63,9 @@ When emailing, please include:
 
 We love hearing from users. If you have a feature idea or general feedback:
 
-[feedback@spanishcoach.app](mailto:feedback@spanishcoach.app)
+[feedback@linguamorpha.nl](mailto:feedback@linguamorpha.nl)
 
-You can also leave a review on the App Store — it helps more learners discover Spanish Coach.
+You can also leave a review on the App Store — it helps more learners discover LinguaMorpha.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6764284291?action=write-review"><img src="../assets/images/app-store-rate-badge.svg" alt="Rate on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
@@ -75,4 +75,4 @@ You can also leave a review on the App Store — it helps more learners discover
 
 For questions about your data or our privacy practices, see our [Privacy Policy](privacy-policy.md) or email:
 
-[privacy@spanishcoach.app](mailto:privacy@spanishcoach.app)
+[privacy@linguamorpha.nl](mailto:privacy@linguamorpha.nl)

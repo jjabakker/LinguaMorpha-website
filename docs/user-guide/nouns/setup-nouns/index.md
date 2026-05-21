@@ -1,6 +1,6 @@
 # Selecting Nouns
 
-Spanish Coach includes around 1,100 Spanish nouns. The Select Nouns screen lets you narrow these down to exactly the set you want to practise.
+LinguaMorpha includes around 1,100 Spanish nouns. The Select Nouns screen lets you narrow these down to exactly the set you want to practise.
 
 A segmented **mode picker** at the top of the screen switches between two complementary ways of selecting:
 
@@ -23,7 +23,7 @@ The screen always shows how many nouns match your current filters. Tap **Matchin
 
 ## Noun Groups tab
 
-The Noun Groups tab lets you select nouns by **grammatical character** instead of vocabulary scope. This is where Spanish Coach's noun taxonomy comes into its own — a single noun can belong to several groups at once (e.g. *lápiz* is both `z → -ces` and accent-loss-in-plural), so a group filter gives you a focused drill on exactly the patterns you want to lock in.
+The Noun Groups tab lets you select nouns by **grammatical character** instead of vocabulary scope. This is where LinguaMorpha's noun taxonomy comes into its own — a single noun can belong to several groups at once (e.g. *lápiz* is both `z → -ces` and accent-loss-in-plural), so a group filter gives you a focused drill on exactly the patterns you want to lock in.
 
 The groups are organised into a few families:
 

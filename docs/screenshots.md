@@ -1,12 +1,12 @@
 ---
 hide:
   - toc
-description: Screenshots of Spanish Coach — main screen, Self Study, Verbs Coach, conjugation tables, drills, and tests for iPhone and iPad.
+description: Screenshots of LinguaMorpha — main screen, Self Study, Verbs Coach, conjugation tables, drills, and tests for iPhone and iPad.
 ---
 
 # Screenshots
 
-A visual tour of Spanish Coach — every major screen in the app.
+A visual tour of LinguaMorpha — every major screen in the app.
 
 ---
 

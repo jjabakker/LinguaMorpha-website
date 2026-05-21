@@ -1,5 +1,5 @@
 ---
-description: Frequently asked questions about Spanish Coach — price and trial, supported devices, where data is stored, voices, dictionary lookups, and colour coding.
+description: Frequently asked questions about LinguaMorpha — price and trial, supported devices, where data is stored, voices, dictionary lookups, and colour coding.
 ---
 
 # Frequently Asked Questions
@@ -8,21 +8,21 @@ description: Frequently asked questions about Spanish Coach — price and trial,
 
 ## General
 
-**What is Spanish Coach?**
+**What is LinguaMorpha?**
 
 A focused practice environment for Spanish **verb conjugation**, **noun vocabulary**, and **everyday words & phrases**. It is not a full language course — it is the structured, grammar-first drill tool you reach for when you want to actually master what you have been taught elsewhere. See the [Features page](features.md) for what's inside.
 
-**Is Spanish Coach free?**
+**Is LinguaMorpha free?**
 
-Spanish Coach is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads. The price is per Apple ID, so it covers iPhone and iPad together if both are signed in to the same account.
+LinguaMorpha is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads. The price is per Apple ID, so it covers iPhone and iPad together if both are signed in to the same account.
 
-**What devices does Spanish Coach support?**
+**What devices does LinguaMorpha support?**
 
 iOS 16.0 or later on iPhone and iPad.
 
 **Do I need an internet connection to use the app?**
 
-No. Spanish Coach works fully offline. All word data is bundled with the app, all answers are stored on your device, and speech uses iOS's built-in voices.
+No. LinguaMorpha works fully offline. All word data is bundled with the app, all answers are stored on your device, and speech uses iOS's built-in voices.
 
 **Which Spanish dialect does the app teach?**
 
@@ -78,7 +78,7 @@ Yes. Every verb and noun detail view has a **Topics** row with a **+** button �
 
 **What is the Look up row on a verb or noun?**
 
-A row of chip buttons that opens four well-known online Spanish dictionaries — **Linguee**, **WordReference**, **Reverso**, and **RAE** — in an in-app Safari sheet, so you don't leave Spanish Coach. Useful when you want a fuller definition or extra example sentences. All four are free and need no account. You can switch any of them off in **Settings → Dictionary Services**. Keep all four on at first; once you know which ones you actually use, switch off the rest to keep the row tidy. If you turn them all off the row disappears.
+A row of chip buttons that opens four well-known online Spanish dictionaries — **Linguee**, **WordReference**, **Reverso**, and **RAE** — in an in-app Safari sheet, so you don't leave LinguaMorpha. Useful when you want a fuller definition or extra example sentences. All four are free and need no account. You can switch any of them off in **Settings → Dictionary Services**. Keep all four on at first; once you know which ones you actually use, switch off the rest to keep the row tidy. If you turn them all off the row disappears.
 
 **Why is part of a verb form shown in red or blue?**
 
@@ -94,7 +94,7 @@ Unseen words come first, ordered by CEFR level + frequency so the most important
 
 **Why does the Spanish speech sound robotic?**
 
-iOS ships with Standard Spanish voices by default. They sound mechanical. Download a free **Enhanced** or **Premium** voice from **iOS Settings → Accessibility → Spoken Content → Voices → Spanish** and then select it inside Spanish Coach under **gear icon → Speech**. The difference is dramatic.
+iOS ships with Standard Spanish voices by default. They sound mechanical. Download a free **Enhanced** or **Premium** voice from **iOS Settings → Accessibility → Spoken Content → Voices → Spanish** and then select it inside LinguaMorpha under **gear icon → Speech**. The difference is dramatic.
 
 **Can I slow the speech down?**
 
@@ -117,17 +117,17 @@ Try these in order:
 3. Restart your device.
 4. Reinstall the app. **Heads-up:** because data is stored locally only, reinstalling will lose your answer history. Do this only as a last resort.
 
-If the issue persists, shake the device to send a bug report, or email [support@spanishcoach.app](mailto:support@spanishcoach.app) with your device model and iOS version.
+If the issue persists, shake the device to send a bug report, or email [support@linguamorpha.nl](mailto:support@linguamorpha.nl) with your device model and iOS version.
 
 ---
 
 ## Privacy
 
-**What data does Spanish Coach collect?**
+**What data does LinguaMorpha collect?**
 
 Nothing personal. See the [Privacy Policy](../privacy-policy.md) for the full statement.
 
-**Does Spanish Coach share my data with third parties?**
+**Does LinguaMorpha share my data with third parties?**
 
 No — there is no server to share data with. All data stays on your device.
 

@@ -1,6 +1,6 @@
 # Website Update Workflow
 
-This document covers the day-to-day workflow for editing the Spanish Coach website — updating screenshots, editing pages, previewing locally, and publishing to GitHub Pages.
+This document covers the day-to-day workflow for editing the LinguaMorpha website — updating screenshots, editing pages, previewing locally, and publishing to GitHub Pages.
 
 The site is built with [MkDocs](https://www.mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/). It's deployed automatically via GitHub Actions whenever you push to `main`.
 
@@ -9,7 +9,7 @@ The site is built with [MkDocs](https://www.mkdocs.org) and the [Material theme]
 ## File layout
 
 ```
-~/spanish-coach-website/
+~/linguamorpha-website/
 ├── docs/
 │   ├── index.md                 Home page
 │   ├── screenshots.md           Screenshots gallery page
@@ -68,7 +68,7 @@ If you change CSS, `mkdocs serve` should pick it up. If it doesn't, do a hard re
 ## Local preview
 
 ```bash
-cd ~/spanish-coach-website
+cd ~/linguamorpha-website
 mkdocs serve
 ```
 
@@ -92,13 +92,13 @@ pip install mkdocs-material
 GitHub Actions builds and deploys automatically on every push to `main`:
 
 ```bash
-cd ~/spanish-coach-website
+cd ~/linguamorpha-website
 git add .
 git commit -m "Describe what you changed"
 git push origin main
 ```
 
-Wait ~1–2 minutes, then check the live site at **<https://spanishcoach.nl/>**.
+Wait ~1–2 minutes, then check the live site at **<https://linguamorpha.nl/>**.
 
 ---
 
@@ -106,11 +106,11 @@ Wait ~1–2 minutes, then check the live site at **<https://spanishcoach.nl/>**.
 
 | Task | Command |
 |---|---|
-| Start local preview | `cd ~/spanish-coach-website && mkdocs serve` |
+| Start local preview | `cd ~/linguamorpha-website && mkdocs serve` |
 | Force browser refresh | `Cmd+Shift+R` |
 | Restart preview (nav changes) | `Ctrl+C`, then `mkdocs serve` |
 | Commit and push | `git add . && git commit -m "…" && git push origin main` |
-| Live site | <https://spanishcoach.nl/> |
+| Live site | <https://linguamorpha.nl/> |
 
 ---
 

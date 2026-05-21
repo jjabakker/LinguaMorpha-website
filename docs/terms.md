@@ -1,12 +1,12 @@
 ---
-description: Terms of use for the Spanish Coach iOS app and website.
+description: Terms of use for the LinguaMorpha iOS app and website.
 ---
 
 # Terms of Use
 
 **Last updated: May 15, 2026**
 
-These Terms of Use ("Terms") apply to the Spanish Coach mobile application (the "App") published by Hans Bakker ("we", "us", or "our"). By downloading or using the App, you agree to these Terms.
+These Terms of Use ("Terms") apply to the LinguaMorpha mobile application (the "App") published by Hans Bakker ("we", "us", or "our"). By downloading or using the App, you agree to these Terms.
 
 If you don't agree, please don't use the App.
 
@@ -14,7 +14,7 @@ If you don't agree, please don't use the App.
 
 ## The App
 
-Spanish Coach is an iOS app for practising Spanish verb conjugation, noun vocabulary, and everyday words and phrases. It is provided as a learning tool — not a substitute for a qualified language teacher or for any kind of certification.
+LinguaMorpha is an iOS app for practising Spanish verb conjugation, noun vocabulary, and everyday words and phrases. It is provided as a learning tool — not a substitute for a qualified language teacher or for any kind of certification.
 
 The App stores all of your data locally on your device. We do not run a server, we do not maintain user accounts, and we do not collect personal information. The [Privacy Policy](privacy-policy.md) has the full details.
 
@@ -87,4 +87,4 @@ We may revise these Terms from time to time. When we do, we will update the "Las
 
 For questions about these Terms, contact:
 
-**Email:** [support@spanishcoach.app](mailto:support@spanishcoach.app)
+**Email:** [support@linguamorpha.nl](mailto:support@linguamorpha.nl)

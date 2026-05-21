@@ -1,5 +1,5 @@
 ---
-description: Worked scenarios for using Spanish Coach — studying a new tense, preparing for a trip, drilling tricky word pairs, locking in noun gender, and more.
+description: Worked scenarios for using LinguaMorpha — studying a new tense, preparing for a trip, drilling tricky word pairs, locking in noun gender, and more.
 ---
 
 # Recipes

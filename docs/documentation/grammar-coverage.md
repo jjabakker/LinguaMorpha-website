@@ -1,16 +1,16 @@
 ---
-description: What Spanish grammar Spanish Coach drills and how — every tense, every verb group, every noun pattern, with explicit rules, colour-coded irregular forms, and adaptive drills.
+description: What Spanish grammar LinguaMorpha drills and how — every tense, every verb group, every noun pattern, with explicit rules, colour-coded irregular forms, and adaptive drills.
 ---
 
 # Grammar Coverage
 
-Spanish Coach was built around a simple conviction: the grammar of Spanish is **knowable**. There are rules, the irregular forms cluster into patterns, and once you can see those patterns, the language stops feeling arbitrary. This page is a tour of the grammar Spanish Coach drills and the ways the app makes that grammar visible.
+LinguaMorpha was built around a simple conviction: the grammar of Spanish is **knowable**. There are rules, the irregular forms cluster into patterns, and once you can see those patterns, the language stops feeling arbitrary. This page is a tour of the grammar LinguaMorpha drills and the ways the app makes that grammar visible.
 
 ---
 
 ## Verb grammar
 
-Verbs do most of the work in Spanish, and most of the difficulty for learners. Spanish Coach covers around **1,500 verbs** across the full conjugation surface.
+Verbs do most of the work in Spanish, and most of the difficulty for learners. LinguaMorpha covers around **1,500 verbs** across the full conjugation surface.
 
 ### Tense coverage
 
@@ -53,7 +53,7 @@ You can switch any tense on or off in **Select Tenses**, so a session can be any
 
 ### Verb groups
 
-Most Spanish verbs are regular — but the irregular ones cluster into recognisable groups. Drilling them by group rather than one at a time is the fastest way to internalise the patterns. Spanish Coach's verb-group taxonomy includes:
+Most Spanish verbs are regular — but the irregular ones cluster into recognisable groups. Drilling them by group rather than one at a time is the fastest way to internalise the patterns. LinguaMorpha's verb-group taxonomy includes:
 
 **Stem-change groups**
 
@@ -99,7 +99,7 @@ You can select any combination of these groups — for instance, "all stem-chang
 
 ## Noun grammar
 
-Nouns are the area learners most often try to "just memorise" — and the area where pattern recognition pays off most. Spanish Coach covers around **1,100 nouns** plus the rules and patterns that govern them.
+Nouns are the area learners most often try to "just memorise" — and the area where pattern recognition pays off most. LinguaMorpha covers around **1,100 nouns** plus the rules and patterns that govern them.
 
 ### Noun groups
 
@@ -170,7 +170,7 @@ A dedicated **Example** topic tag lets you toggle that whole synthesised layer o
 
 ## The adaptive engine
 
-Coverage is only half the story. What makes Spanish Coach feel different is that the app **uses what it knows about you** to decide what to drill next:
+Coverage is only half the story. What makes LinguaMorpha feel different is that the app **uses what it knows about you** to decide what to drill next:
 
 - Every answer is recorded locally.
 - Unseen words appear first, ordered by significance (A1 very-common before C2 rare).

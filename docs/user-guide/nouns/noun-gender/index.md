@@ -39,6 +39,6 @@ If you can keep this short list in your head, the *-o / -a* shortcut will be rig
 
 ## When the rule isn't enough
 
-For nouns where the ending doesn't decide the gender (mainly nouns ending in *-e* or in a consonant), you simply have to learn the article along with the word. Spanish Coach always presents nouns with their article on the flashcard, so the gender is part of the unit you're memorising from the start.
+For nouns where the ending doesn't decide the gender (mainly nouns ending in *-e* or in a consonant), you simply have to learn the article along with the word. LinguaMorpha always presents nouns with their article on the flashcard, so the gender is part of the unit you're memorising from the start.
 
 For the small set of nouns whose meaning **changes** with the article, see [Alternate Gender Explained](../alternate-gender/).

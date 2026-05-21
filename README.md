@@ -1,6 +1,6 @@
-# Spanish Coach — App Website
+# LinguaMorpha — App Website
 
-This is the source for the [Spanish Coach](https://jjabakker.github.io/spanish-coach-website/) website, built with [MkDocs](https://www.mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
+This is the source for the [LinguaMorpha](https://jjabakker.github.io/linguamorpha-website/) website, built with [MkDocs](https://www.mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 
 ---
 
@@ -9,7 +9,7 @@ This is the source for the [Spanish Coach](https://jjabakker.github.io/spanish-c
 ### Step 1 — Create a GitHub repo
 
 1. Go to [github.com/new](https://github.com/new)
-2. Name it `spanish-coach-website`
+2. Name it `linguamorpha-website`
 3. Set it to **Public** (required for free GitHub Pages)
 4. Click **Create repository**
 
@@ -20,12 +20,12 @@ Open `mkdocs.yml` and replace every `jjabakker` placeholder with your actual Git
 ### Step 3 — Push the project to GitHub
 
 ```bash
-cd spanish-coach-website
+cd linguamorpha-website
 git init
 git add .
 git commit -m "Initial website"
 git branch -M main
-git remote add origin https://github.com/jjabakker/spanish-coach-website.git
+git remote add origin https://github.com/jjabakker/linguamorpha-website.git
 git push -u origin main
 ```
 
@@ -39,7 +39,7 @@ git push -u origin main
 The GitHub Actions workflow will automatically build and deploy the site every time you push to `main`. Your site will be live at:
 
 ```
-https://jjabakker.github.io/spanish-coach-website/
+https://jjabakker.github.io/linguamorpha-website/
 ```
 
 ---

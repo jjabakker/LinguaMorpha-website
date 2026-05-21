@@ -1,5 +1,5 @@
 ---
-description: My Progress in Spanish Coach — activity heatmap, Coverage, Accuracy breakdown, Word Performance, and Trends, plus PDF export of the full report.
+description: My Progress in LinguaMorpha — activity heatmap, Coverage, Accuracy breakdown, Word Performance, and Trends, plus PDF export of the full report.
 ---
 
 # My Progress
@@ -58,7 +58,7 @@ Use Trends to answer "am I getting better?" — and to spot stretches where accu
 
 The share icon at the top right of My Progress generates a full **progress report PDF** — the heatmap, all coverage breakdowns, accuracy charts, the word-performance list, and trend charts — and offers it to the standard iOS share sheet. Useful for keeping a personal record, or sharing your progress with a teacher.
 
-The PDF is generated locally on your device and is never uploaded anywhere by Spanish Coach.
+The PDF is generated locally on your device and is never uploaded anywhere by LinguaMorpha.
 
 ---
 

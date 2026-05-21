@@ -1,14 +1,14 @@
 ---
-description: Spanish Coach privacy policy — local-first app, no accounts, no analytics, no cloud sync. Your study data stays on your device.
+description: LinguaMorpha privacy policy — local-first app, no accounts, no analytics, no cloud sync. Your study data stays on your device.
 ---
 
 # Privacy Policy
 
 **Last updated: May 15, 2026**
 
-This Privacy Policy describes how Spanish Coach ("we", "us", or "our") handles information when you use the Spanish Coach mobile application (the "App").
+This Privacy Policy describes how LinguaMorpha ("we", "us", or "our") handles information when you use the LinguaMorpha mobile application (the "App").
 
-The short version: **Spanish Coach is a local-first app. All your data — answers, progress, settings — stays on your device. There is no account, no cloud sync, and no analytics tracking.**
+The short version: **LinguaMorpha is a local-first app. All your data — answers, progress, settings — stays on your device. There is no account, no cloud sync, and no analytics tracking.**
 
 ---
 
@@ -34,8 +34,8 @@ The short version: **Spanish Coach is a local-first app. All your data — answe
 
 The App is designed to work fully offline. There are a few specific situations where it may make a network connection:
 
-- **In-app purchases.** If you purchase or restore a Spanish Coach one-time purchase, the App communicates with Apple's App Store and StoreKit servers. This is handled entirely by Apple — we do not see your payment information.
-- **External dictionary lookups.** Some screens include an optional "look up in external dictionary" button that opens an external Spanish dictionary in Safari. This action is user-initiated and Safari (not Spanish Coach) is what loads the page.
+- **In-app purchases.** If you purchase or restore a LinguaMorpha one-time purchase, the App communicates with Apple's App Store and StoreKit servers. This is handled entirely by Apple — we do not see your payment information.
+- **External dictionary lookups.** Some screens include an optional "look up in external dictionary" button that opens an external Spanish dictionary in Safari. This action is user-initiated and Safari (not LinguaMorpha) is what loads the page.
 - **Bug reports and feedback.** When you shake the device to send feedback, the App opens the system Mail composer with a pre-filled email containing a screenshot of the current screen, the App version, your iOS version, and your device model. The email is sent **only when you tap Send**, and it goes through your own mail account directly to the developer. The App itself does not transmit anything in the background.
 
 ---
@@ -64,13 +64,13 @@ Your study data lives on your device until you delete it. You can reset your pro
 
 ## Your rights
 
-Because we do not hold any personal data about you, requests to access, correct, or delete your data are best handled directly on your device using the reset and uninstall mechanisms described above. If you have questions, contact us at [privacy@spanishcoach.app](mailto:privacy@spanishcoach.app).
+Because we do not hold any personal data about you, requests to access, correct, or delete your data are best handled directly on your device using the reset and uninstall mechanisms described above. If you have questions, contact us at [privacy@linguamorpha.nl](mailto:privacy@linguamorpha.nl).
 
 ---
 
 ## Children's privacy
 
-Spanish Coach is not directed at children under the age of 13, but the App does not collect personal information from anyone, so children's privacy is not put at risk by using it.
+LinguaMorpha is not directed at children under the age of 13, but the App does not collect personal information from anyone, so children's privacy is not put at risk by using it.
 
 ---
 
@@ -92,4 +92,4 @@ We may update this Privacy Policy if the App's behaviour changes. When we do, we
 
 If you have questions about this Privacy Policy, please contact us:
 
-**Email:** [privacy@spanishcoach.app](mailto:privacy@spanishcoach.app)
+**Email:** [privacy@linguamorpha.nl](mailto:privacy@linguamorpha.nl)

@@ -1,10 +1,10 @@
 ---
-description: Spanish Coach features — verb conjugation tables with irregular-form colour coding, six test types for verbs, noun gender and plural drills, Phrases and Words vocabulary, and adaptive sessions.
+description: LinguaMorpha features — verb conjugation tables with irregular-form colour coding, six test types for verbs, noun gender and plural drills, Phrases and Words vocabulary, and adaptive sessions.
 ---
 
 # Features
 
-Spanish Coach is a focused practice environment for four areas of the language: **verbs**, **nouns**, **phrases**, and **words**. Every feature is designed around the same idea — make the rules of Spanish explicit, then drill them until they are automatic.
+LinguaMorpha is a focused practice environment for four areas of the language: **verbs**, **nouns**, **phrases**, and **words**. Every feature is designed around the same idea — make the rules of Spanish explicit, then drill them until they are automatic.
 
 ---
 
@@ -75,7 +75,7 @@ A structured curriculum that combines vocabulary and grammar progressively. Less
 
 ## Speech
 
-Spanish Coach uses **iOS speech synthesis** to read words and conjugations aloud. iOS includes Spanish voices at three quality levels — Standard, Enhanced, and Premium. The Enhanced and Premium voices are free to download from iOS Settings and sound much better than the default. See the [Getting Started guide](getting-started.md#2-set-up-speech-one-time-strongly-recommended) for step-by-step instructions.
+LinguaMorpha uses **iOS speech synthesis** to read words and conjugations aloud. iOS includes Spanish voices at three quality levels — Standard, Enhanced, and Premium. The Enhanced and Premium voices are free to download from iOS Settings and sound much better than the default. See the [Getting Started guide](getting-started.md#2-set-up-speech-one-time-strongly-recommended) for step-by-step instructions.
 
 A speed slider in the app lets you slow speech down for listening practice.
 
@@ -91,7 +91,7 @@ The sentences are picked to illustrate typical, everyday usage rather than to be
 
 ## External dictionary lookups
 
-Every verb and noun detail view has a **Look up** row with chip buttons for four well-known online Spanish dictionaries: **Linguee**, **WordReference**, **Reverso**, and **RAE** (the Real Academia Española). Tap a chip and the lookup opens in an in-app Safari sheet — you don't leave Spanish Coach. Useful when you want a fuller definition, real-world example sentences, or contextual translations.
+Every verb and noun detail view has a **Look up** row with chip buttons for four well-known online Spanish dictionaries: **Linguee**, **WordReference**, **Reverso**, and **RAE** (the Real Academia Española). Tap a chip and the lookup opens in an in-app Safari sheet — you don't leave LinguaMorpha. Useful when you want a fuller definition, real-world example sentences, or contextual translations.
 
 You decide which services appear in the row. The toggles live in **Settings → Dictionary Services**. All four are enabled by default — there's no cost or sign-up for any of these sites, so it's worth keeping them all on while you find your favourites. Later, once you know which one or two you actually reach for, you can switch off the rest to keep the row compact. If you disable all four, the Look up row hides entirely.
 
@@ -114,12 +114,12 @@ You can reset your study history from **Settings → Data → Reset Progress** �
 
 ## Privacy
 
-Spanish Coach stores everything locally on your device. There is no account, no sign-in, no cloud sync, and no analytics that personally identify you. The full [Privacy Policy](../privacy-policy.md) has the details.
+LinguaMorpha stores everything locally on your device. There is no account, no sign-in, no cloud sync, and no analytics that personally identify you. The full [Privacy Policy](../privacy-policy.md) has the details.
 
 ---
 
 ## Pricing
 
-Spanish Coach is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required up front. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads, no in-app upsells.
+LinguaMorpha is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required up front. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads, no in-app upsells.
 
 The price is per Apple ID, so it covers your iPhone and iPad together if both are signed in to the same account. Currency and exact amount may vary slightly by App Store region — the App Store listing is the source of truth for your country.

@@ -1,6 +1,6 @@
 # Guided Grammar Lessons
 
-Guided Grammar Lessons are the curriculum side of Spanish Coach: a fixed sequence of lessons that introduce vocabulary and grammar progressively, with no decisions for you to make about scope. Use them when you'd rather follow a path than build one.
+Guided Grammar Lessons are the curriculum side of LinguaMorpha: a fixed sequence of lessons that introduce vocabulary and grammar progressively, with no decisions for you to make about scope. Use them when you'd rather follow a path than build one.
 
 The home screen has **two** Guided Grammar Lesson catalogues, each opened from its own card:
 

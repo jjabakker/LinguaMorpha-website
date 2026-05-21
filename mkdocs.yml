@@ -1,7 +1,7 @@
-site_name: Spanish Coach
-site_description: A focused, structured practice environment for Spanish verb conjugation, noun vocabulary, and everyday words and phrases — with adaptive sessions that prioritise the words you find hardest.
+site_name: LinguaMorpha
+site_description: A focused, structured practice environment for language learning — conjugation, vocabulary, and phrases across multiple languages, with adaptive sessions that prioritise the words you find hardest.
 site_author: Hans Bakker
-site_url: https://spanishcoach.nl/
+site_url: https://linguamorpha.nl/
 
 theme:
   name: material
@@ -42,7 +42,7 @@ nav:
     - Recipes: documentation/recipes.md
     - FAQ: documentation/faq.md
   - User Guide:
-    - Main Screen: user-guide/spanish-coach/index.md
+    - Main Screen: user-guide/linguamorpha/index.md
     - My Progress: user-guide/progress/index.md
     - Settings: user-guide/settings/index.md
     - Self Study: user-guide/self-study/index.md
@@ -87,7 +87,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/app-store-ios
-      link: https://apps.apple.com/app/6764284291
+      link: https://apps.apple.com/app/6771902489
       name: Download on the App Store
 
 plugins:
