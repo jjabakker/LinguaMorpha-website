@@ -1,20 +1,42 @@
 /* ============================================
-   Spanish Coach — MkDocs Extra Styles
+   LinguaMorpha — MkDocs Extra Styles
+   Navy / teal light palette — consistent with app brand
    ============================================ */
+
+/* ---------- Palette tokens ----------
+   Navy ramp (app lmIconSetup family):
+     #0D1B3D  deep navy
+     #132247  navy 900
+     #1A2D5A  navy 800
+     #22396F  navy 700  ← header / primary
+     #6B82AB  steel     ← muted text / secondary
+
+   Teal ramp (app lmIconStudy family):
+     #0C5E54  deep teal
+     #0F7A6B  dark teal  ← links
+     #219A93  teal mid   ← card accent
+     #1ABFA4  bright teal ← active / hover
+
+   Page:
+     #F4F7FC  light blue-grey background
+     #E8EEF8  teal-navy wash (hero bg start)
+     #E0F2EE  teal wash    (hero bg end)
+   ============================================ */
+
 :root {
-  --md-default-bg-color: #f7f2e8;
-  --md-default-fg-color: #332b22;
+  --md-default-bg-color:         #F4F7FC;
+  --md-default-fg-color:         #0D1B3D;
 
-  --md-primary-fg-color: #efe4cf;
-  --md-primary-fg-color--light: #f6edde;
-  --md-primary-fg-color--dark: #dcc6a0;
+  --md-primary-fg-color:         #22396F;
+  --md-primary-fg-color--light:  #2D4A8A;
+  --md-primary-fg-color--dark:   #1A2D5A;
 
-  --md-accent-fg-color: #c07a12;
+  --md-accent-fg-color:          #1ABFA4;
 }
 
 
 .md-main {
-  background: #f7f2e8;
+  background: #F4F7FC;
 }
 
 .md-content {
@@ -24,16 +46,16 @@
 
 /* ---------- Hero Section ---------- */
 .hero-section {
-  background: linear-gradient(135deg, #ead7b1 0%, #f5ebd7 100%);
+  background: linear-gradient(135deg, #E8EEF8 0%, #E0F2EE 100%);
   border-radius: 12px;
   padding: 1.75rem 2.25rem;
   margin: 1.5rem 0 2rem;
-  color: #3a3128;
+  color: #0D1B3D;
   text-align: center;
 }
 
 .hero-section h2 {
-  color: #3a3128 !important;
+  color: #0D1B3D !important;
   font-size: 1.4rem;
   line-height: 1.25;
   margin-bottom: 0.5rem;
@@ -42,21 +64,21 @@
 .hero-section p {
   font-size: 0.85rem;
   line-height: 1.5;
-  opacity: 0.92;
+  color: #22396F;
   max-width: none;
   margin: 0 0 0.8rem;
 }
 
-/* ---------- Warm desert navigation ---------- */
+/* ---------- Navy header & navigation ---------- */
 
 .md-header {
-  background: #f3eadb !important;
-  box-shadow: 0 1px 0 rgba(180, 140, 70, 0.12);
+  background: #22396F !important;
+  box-shadow: 0 1px 0 rgba(13, 27, 61, 0.18);
 }
 
 .md-header,
 .md-header * {
-  color: #5c4630 !important;
+  color: rgba(255, 255, 255, 0.92) !important;
 }
 
 /* Make the logo and site title in the header bigger and visually paired */
@@ -81,21 +103,30 @@
 }
 
 .md-header__title a.md-header__title-link:hover {
-  opacity: 0.75;
+  opacity: 0.80;
 }
 
 .md-tabs {
-  background: #f6efe3 !important;
+  background: #1A2D5A !important;
+}
+
+.md-tabs__link {
+  color: rgba(255, 255, 255, 0.65) !important;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #1ABFA4 !important;
 }
 
 .md-search__form {
-  background-color: rgba(255,255,255,0.82) !important;
-  border: 1px solid rgba(180,140,70,0.15);
+  background-color: rgba(255, 255, 255, 0.14) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 10px;
 }
 
 .md-sidebar--primary {
-  border-right: 1px solid rgba(190,150,90,0.12);
+  border-right: 1px solid rgba(34, 57, 111, 0.10);
 }
 
 /* Hide the redundant boxed site title at the top of the primary sidebar on desktop.
@@ -115,21 +146,21 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
 }
 
 .md-sidebar--secondary {
-  border-left: 1px solid rgba(190,150,90,0.12);
+  border-left: 1px solid rgba(34, 57, 111, 0.10);
 }
 
 .md-nav__link--active,
 .md-tabs__link--active {
-  color: #c07a12 !important;
+  color: #0F7A6B !important;
   font-weight: 600;
 }
 
 .md-typeset a {
-  color: #b67d1f;
+  color: #0F7A6B;
 }
 
 .md-typeset a:hover {
-  color: #d29a34;
+  color: #219A93;
 }
 
 /* ---------- Video Embed ---------- */
@@ -168,17 +199,17 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
 }
 
 .feature-card {
-  background: rgba(255,255,255,0.55);
+  background: rgba(255, 255, 255, 0.70);
   backdrop-filter: blur(4px);
   border-radius: 10px;
   padding: 1.25rem 1.5rem;
-  border-left: 4px solid #c89b6d;
+  border-left: 4px solid #219A93;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .feature-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.10);
 }
 
 .feature-card h3 {
@@ -186,13 +217,14 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   margin-bottom: 0.4rem;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #3a3128;
+  color: #0D1B3D;
 }
 
 .feature-card p {
   margin-bottom: 0;
   font-size: 0.78rem;
   line-height: 1.5;
+  color: #22396F;
   opacity: 0.85;
 }
 
@@ -213,7 +245,7 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   width: 100%;
   max-width: 260px;
   border-radius: 20px;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.20);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
   border: 1px solid rgba(0, 0, 0, 0.08);
   display: block;
   margin: 0 auto 0.75rem;
@@ -223,12 +255,12 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   display: block;
   font-size: 0.95rem;
   margin-bottom: 0.35rem;
-  color: var(--md-primary-fg-color);
+  color: #22396F;
 }
 
 .screenshot-item p {
   font-size: 0.85rem;
-  opacity: 0.75;
+  color: #6B82AB;
   margin: 0;
 }
 
@@ -263,22 +295,22 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
 
 .app-store-badge:hover {
   transform: translateY(-1px);
-  filter: brightness(1.08);
+  filter: brightness(1.06);
 }
 
 .hero-aside {
   margin: 0.5rem 0 0 !important;
   font-size: 0.78rem;
-  opacity: 0.7;
+  color: #6B82AB;
 }
 
 .hero-aside a {
-  color: #3a3128 !important;
+  color: #22396F !important;
   text-decoration: none;
 }
 
 .hero-aside a:hover {
-  opacity: 1;
+  color: #0F7A6B !important;
   text-decoration: underline;
 }
 
@@ -297,7 +329,7 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   width: 100%;
   max-width: 100%;
   border-radius: 20px;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.20);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
   border: 1px solid rgba(0, 0, 0, 0.08);
   display: block;
 }
@@ -321,8 +353,8 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
 /* ---------- Expand all button ---------- */
 #nav-expand-btn {
   background: none;
-  border: 1px solid var(--md-primary-fg-color);
-  color: var(--md-primary-fg-color);
+  border: 1px solid rgba(34, 57, 111, 0.35);
+  color: #22396F;
   border-radius: 4px;
   font-size: 0.7rem;
   padding: 2px 8px;
@@ -349,11 +381,10 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   padding-left: 0.4rem;
 }
 
-/* Give nested expandable nav groups (like Verbs / Nouns / Words & Phrases
-   under User Guide) the same vertical depth-line treatment that Material
-   gives the integrated table of contents. */
+/* Give nested expandable nav groups the same vertical depth-line treatment
+   that Material gives the integrated table of contents. */
 .md-sidebar--primary .md-nav__item--nested > .md-nav {
-  border-left: 1px solid rgba(190, 150, 90, 0.35);
+  border-left: 1px solid rgba(34, 57, 111, 0.20);
   padding-left: 0.6rem;
   margin-left: 0.5rem;
 }
@@ -367,29 +398,28 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   margin-right: auto;
 }
 
-/* Tables — drop the heavy white-box look and let them blend into the cream
-   theme with soft warm borders. */
+/* Tables — soft navy borders to blend into the light-blue-grey theme. */
 .md-typeset table:not([class]) {
   background: transparent;
-  border: 1px solid rgba(190, 150, 90, 0.25);
+  border: 1px solid rgba(34, 57, 111, 0.15);
   box-shadow: none;
   border-collapse: collapse;
 }
 
 .md-typeset table:not([class]) th {
-  background: rgba(190, 150, 90, 0.10);
-  color: #3a3128;
+  background: rgba(34, 57, 111, 0.06);
+  color: #0D1B3D;
   font-weight: 600;
-  border-bottom: 1px solid rgba(190, 150, 90, 0.25);
+  border-bottom: 1px solid rgba(34, 57, 111, 0.15);
 }
 
 .md-typeset table:not([class]) td {
   background: transparent;
-  border-top: 1px solid rgba(190, 150, 90, 0.15);
+  border-top: 1px solid rgba(34, 57, 111, 0.08);
 }
 
 .md-typeset table:not([class]) tr:hover td {
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.55);
 }
 
 /* ---------- Responsive ---------- */

@@ -7,12 +7,12 @@ theme:
   name: material
   palette:
   - scheme: default
-    primary: grey
-    accent: amber
+    primary: custom
+    accent: custom
 
   - scheme: slate
-    primary: blue grey
-    accent: amber
+    primary: custom
+    accent: custom
   font:
     text: Nunito
     code: Roboto Mono
@@ -94,8 +94,8 @@ plugins:
   - search
   - social:
       cards_layout_options:
-        background_color: "#efe4cf"
-        color: "#3a3128"
+        background_color: "#22396F"
+        color: "#FFFFFF"
 
 markdown_extensions:
   - admonition
