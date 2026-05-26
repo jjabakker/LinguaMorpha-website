@@ -1,18 +1,20 @@
 ---
 hide:
   - toc
-description: LinguaMorpha is a focused drill app for Spanish verb conjugation, noun gender and plurals, and everyday vocabulary — with adaptive sessions that prioritise the words you find hardest. iPhone and iPad.
+description: LinguaMorpha is a Latin-based language platform. Master Latin morphology with macron-accurate drills, then watch every Romance language fall into place. Spanish included today; French, Italian, and Portuguese arrive as free updates. iPhone and iPad.
 ---
 
 # LinguaMorpha
 
 <div class="hero-section" markdown>
 
-## Master Spanish grammar and vocabulary, one drill at a time
+## A Latin-based language platform.
 
-LinguaMorpha is a focused practice environment for Spanish **verb conjugation**, **noun vocabulary**, and **everyday words & phrases**. The adaptive engine prioritises the words you haven't seen and the ones you keep getting wrong, so every session works on the material that matters most for you.
+Master Latin first. Then watch every Romance language you ever try to learn fall into place — because every one of them descends from Latin, keeps Latin's patterns, and breaks Latin's rules in ways that suddenly make sense once you know the root.
 
-It is **not** a natural-immersion app or a full language course. It is the structured, grammar-first drill tool you reach for when you want to actually master what you've been taught elsewhere.
+LinguaMorpha covers the morphology of **Latin** (all five declensions, all five adjective patterns, comparative and superlative, macron-accurate answer checking) and ships with **Spanish** as the first additional module (1,100 verbs, 1,300 nouns, every major tense). The adaptive engine prioritises the words you keep getting wrong, so every session works on what needs work.
+
+**French, Italian, and Portuguese arrive as free updates over the next twelve months.** No subscriptions. No advertising. No accounts. Your answers stay on your device. Buy once; every future Western Romance module is included forever.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
@@ -25,46 +27,78 @@ It is **not** a natural-immersion app or a full language course. It is the struc
 <div class="features-grid" markdown>
 
 <div class="feature-card" markdown>
-### 📖 Explicit grammar
-Conjugation tables with irregular forms colour-coded so you can see — at a glance — exactly where a verb deviates from the regular pattern, and by how much.
+### 🏛️ Latin done right
+All five declensions including i-stem and 4th-decl neuter. All five adjective patterns including comparative and superlative. Macron-accurate answer checking. The Latin coverage no other consumer iOS app touches.
 </div>
 
 <div class="feature-card" markdown>
-### 🎯 Targeted selection
-Filter your word pool by CEFR level (A1–C2), frequency, topic, or verb group (regular, stem-changing, strong preterite, reflexive, etc.). Drill exactly what you want — nothing else.
+### 📖 Explicit grammar
+Conjugation and declension tables with irregular forms colour-coded so you see — at a glance — exactly where a form deviates from the regular pattern and by how much. Reference and drill, in one screen.
 </div>
 
 <div class="feature-card" markdown>
 ### 🧠 Adaptive sessions
-Every answer is recorded locally. Unseen words appear first (ordered by CEFR + frequency), then weakest-performing words by correct-rate. You always work on what needs work.
+Every answer is recorded locally. Unseen words appear first (ordered by CEFR + frequency), then the words you keep getting wrong. You always work on what needs work.
 </div>
 
 <div class="feature-card" markdown>
-### 🗂️ Six verb test types
-Conjugation Drill (type or pick), Recognition (verb / tense / person), Word Meanings flashcards, Past Participle, Gerundio, and Indefinido drills — each tuned to a specific weak spot.
+### 🇪🇸 Spanish included
+Spanish ships as the first additional module: 1,100 verbs, 1,300 nouns, six verb drill modes, full noun-gender and plural support, expressions, and Apple-voice text-to-speech with Enhanced and Premium voices.
 </div>
 
 <div class="feature-card" markdown>
-### 🇪🇸 Noun gender & plurals
-Practise *el* / *la*, singular / plural, and the tricky alternate-gender pairs (*el capital* vs *la capital*) with rule-based explanations alongside.
+### 🔍 Identify a form
+Type any inflected form — Latin or Spanish — and see what it parses as. Diacritic-folded, macron-aware, language-aware. The lookup your grammar reference doesn't have.
 </div>
 
 <div class="feature-card" markdown>
-### 🔊 Spanish speech
-Tap the speaker on any card to hear the form. LinguaMorpha uses iOS speech synthesis — install a free **Enhanced** or **Premium** Apple Spanish voice from iOS Settings for natural-sounding audio.
+### 🔒 Yours forever
+Buy once. Every future Western Romance module is included free. No subscriptions, no ads, no accounts. Every answer stays on your device — local SQLite, never uploaded.
 </div>
 
 </div>
 
 ---
 
-## Self Study or Guided Grammar Lessons?
+## More modules coming — all as free updates
 
-LinguaMorpha offers two ways to work.
+LinguaMorpha is a platform. Latin and Spanish are what's in v1.0; the rest of the Western Romance family lands over the next year, plus a structured-lessons system. Every one of these is **included free** for anyone who buys v1.0.
+
+<div class="features-grid" markdown>
+
+<div class="feature-card" markdown>
+### 🇫🇷 French · v1.2
+The second module. Verb conjugation across all the tenses you actually use, noun gender and plurals, irregular patterns colour-coded the same way as Spanish.
+</div>
+
+<div class="feature-card" markdown>
+### 🎓 Guided lessons · v1.3
+A structured, paced lessons system that walks you through verb and noun morphology in textbook-aligned chapters. Latin and Spanish first; other modules following.
+</div>
+
+<div class="feature-card" markdown>
+### 🇮🇹 Italian · v1.4
+The third module. Same shape as Spanish and French — fully drilled across tense, gender, and number, with the same adaptive sessions.
+</div>
+
+<div class="feature-card" markdown>
+### 🇵🇹 Portuguese · v1.6
+The fourth module. European Portuguese conjugation and morphology. Closes the major Western Romance set.
+</div>
+
+</div>
+
+*Roadmap order may shift — but every module listed here is committed and included in any v1.0 purchase.*
+
+---
+
+## How you study
+
+LinguaMorpha is built for adults who have outgrown the chatbot-and-streak apps and want a structured tool that respects their time.
 
 **Self Study** puts you in full control. You decide which words to practise, which tenses to include, and which exercises to use. Best when you have a specific goal — a particular tense, a vocabulary theme, or a grammar point you want to drill.
 
-**Guided Grammar Lessons** follow a fixed, structured path — split into two parallel catalogues, **Verb Grammar Lessons** and **Noun Grammar Lessons**, so you can work on each independently. No configuration required. Best if you're not sure where to start.
+**Guided Grammar Lessons** (arriving v1.3) will follow a fixed, structured path — Latin chapters paced to Wheelock or LLPSI, Spanish chapters paced by tense — for learners who prefer a curriculum to a configuration.
 
 [Read the User Guide →](user-guide/){ .md-button } [See the Grammar Coverage →](documentation/grammar-coverage.md){ .md-button } [Recipes →](documentation/recipes.md){ .md-button }
 
@@ -72,6 +106,6 @@ LinguaMorpha offers two ways to work.
 
 ## Get Started
 
-LinguaMorpha is available on the App Store for iPhone and iPad. Free to download and free to use for 14 days — then a one-time €14.99 purchase unlocks it for good. No subscriptions.
+LinguaMorpha is available on the App Store for iPhone and iPad. Free trial inside the app; one-time purchase to unlock — no subscriptions, no recurring charges, no auto-renew. Every future module included free.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
