@@ -46,39 +46,53 @@ nav:
     - My Progress: user-guide/progress/index.md
     - Settings: user-guide/settings/index.md
     - Self Study: user-guide/self-study/index.md
-    - Verbs:
-      - user-guide/verbs/index.md
-      - Selecting Verbs: user-guide/verbs/select-verbs/index.md
-      - Selecting Tenses: user-guide/verbs/select-tenses/index.md
-      - Conjugation Tables: user-guide/verbs/conjugation-tables/index.md
-      - Word Meanings (Study): user-guide/verbs/word-meanings-study/index.md
-      - Conjugation Drill: user-guide/verbs/conjugation-drill/index.md
-      - Word Meanings Flashcard: user-guide/verbs/verb-meanings-test/index.md
-      - Recognition: user-guide/verbs/recognition/index.md
-      - Past Participle: user-guide/verbs/past-participle/index.md
-      - Gerundio: user-guide/verbs/gerundio/index.md
-      - Indefinido: user-guide/verbs/indefinido/index.md
-    - Nouns:
-      - user-guide/nouns/index.md
-      - Selecting Nouns: user-guide/nouns/setup-nouns/index.md
-      - Meaning Study: user-guide/nouns/meaning-study/index.md
-      - Alternate Gender Explained: user-guide/nouns/alternate-gender/index.md
-      - Noun Gender Rules: user-guide/nouns/noun-gender/index.md
-      - Plural Formation: user-guide/nouns/plural-formation/index.md
-      - Meaning Test: user-guide/nouns/meaning-test/index.md
-      - Pick the Correct Article: user-guide/nouns/correct-article/index.md
-      - Singular / Plural: user-guide/nouns/singular-plural/index.md
-      - Alternate Gender Pairs: user-guide/nouns/gender-pairs/index.md
-    - Phrases:
-      - user-guide/phrases/index.md
-      - Select Phrases: user-guide/phrases/select/index.md
-      - Browse Phrases: user-guide/phrases/study/index.md
-      - Phrase Meanings: user-guide/phrases/test/index.md
-    - Words:
-      - user-guide/words/index.md
-      - Select Words: user-guide/words/select/index.md
-      - Browse Words: user-guide/words/study/index.md
-      - Word Meanings: user-guide/words/test/index.md
+    - Latin:
+      - user-guide/latin/index.md
+      - Declensions:
+        - Selecting Declensions: user-guide/latin/declensions/setup.md
+        - Declension Paradigms: user-guide/latin/declensions/paradigms.md
+        - Decline the Noun: user-guide/latin/declensions/decline.md
+        - Recognise the Form: user-guide/latin/declensions/recognise.md
+      - Adjectives:
+        - user-guide/latin/adjectives/index.md
+        - Concordance Drill: user-guide/latin/adjectives/concordance.md
+      - Verbs: user-guide/latin/verbs/index.md
+      - Sentence Parser: user-guide/latin/sentence-parser.md
+      - Macrons: user-guide/latin/macrons.md
+    - Spanish:
+      - Verbs:
+        - user-guide/verbs/index.md
+        - Selecting Verbs: user-guide/verbs/select-verbs/index.md
+        - Selecting Tenses: user-guide/verbs/select-tenses/index.md
+        - Conjugation Tables: user-guide/verbs/conjugation-tables/index.md
+        - Word Meanings (Study): user-guide/verbs/word-meanings-study/index.md
+        - Conjugation Drill: user-guide/verbs/conjugation-drill/index.md
+        - Word Meanings Flashcard: user-guide/verbs/verb-meanings-test/index.md
+        - Recognition: user-guide/verbs/recognition/index.md
+        - Past Participle: user-guide/verbs/past-participle/index.md
+        - Gerundio: user-guide/verbs/gerundio/index.md
+        - Indefinido: user-guide/verbs/indefinido/index.md
+      - Nouns:
+        - user-guide/nouns/index.md
+        - Selecting Nouns: user-guide/nouns/setup-nouns/index.md
+        - Meaning Study: user-guide/nouns/meaning-study/index.md
+        - Alternate Gender Explained: user-guide/nouns/alternate-gender/index.md
+        - Noun Gender Rules: user-guide/nouns/noun-gender/index.md
+        - Plural Formation: user-guide/nouns/plural-formation/index.md
+        - Meaning Test: user-guide/nouns/meaning-test/index.md
+        - Pick the Correct Article: user-guide/nouns/correct-article/index.md
+        - Singular / Plural: user-guide/nouns/singular-plural/index.md
+        - Alternate Gender Pairs: user-guide/nouns/gender-pairs/index.md
+      - Phrases:
+        - user-guide/phrases/index.md
+        - Select Phrases: user-guide/phrases/select/index.md
+        - Browse Phrases: user-guide/phrases/study/index.md
+        - Phrase Meanings: user-guide/phrases/test/index.md
+      - Words:
+        - user-guide/words/index.md
+        - Select Words: user-guide/words/select/index.md
+        - Browse Words: user-guide/words/study/index.md
+        - Word Meanings: user-guide/words/test/index.md
     - Guided Grammar Lessons: user-guide/guided-lessons/index.md
   - Privacy: privacy-policy.md
   - Terms: terms.md

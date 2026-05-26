@@ -2,18 +2,35 @@
 
 Welcome to the LinguaMorpha User Guide. Use the navigation on the left to explore each section of the app.
 
+The guide is organised first by app-wide screens (main screen, settings, self study), then by language module — **Latin** and **Spanish** — each with their own set of detail pages.
+
 ---
 
 ## What's in this guide
 
 - **[LinguaMorpha (Main Screen)](linguamorpha/)** — Your starting point. A quick tour of the home screen and how to navigate the app.
 - **[Settings](settings/)** — Global app preferences: interface language, native language, speech, session size, dictionary services, and data management.
-- **[Self Study](self-study/)** — Choose what to study: Verbs, Nouns, Phrases, or Words.
+- **[Self Study](self-study/)** — Choose what to study within whichever module you're in.
+
+### Latin
+
+- **[Latin Coach](latin/)** — Overview of the Latin module and its Setup / Study / Test pipelines.
+- **[Declensions](latin/declensions/setup/)** — All five declensions; pick a pool, study paradigms, drill production and recognition.
+- **[Adjectives](latin/adjectives/)** — All five patterns, comparative and superlative, plus the [Concordance Drill](latin/adjectives/concordance/) (the unique drill no other consumer iOS Latin app implements).
+- **[Verbs](latin/verbs/)** — All five conjugations, every classical tense / mood / voice.
+- **[Sentence Parser](latin/sentence-parser/)** — Paste any Latin sentence and get every word parsed.
+- **[Macrons](latin/macrons/)** — How macron-accurate checking works and how to type macrons on iOS.
+
+### Spanish
+
 - **[Verbs Coach](verbs/)** — Deep-dive into Spanish verbs with dedicated setup, study, and test modes.
 - **[Nouns Coach](nouns/)** — Practise gender, plurals, and alternate-gender pairs.
 - **[Phrases](phrases/)** — Set phrases and common Spanish expressions (greetings, time, social formulas).
 - **[Words](words/)** — Single-word vocabulary that isn't a verb or noun: adjectives, adverbs, prepositions, numbers.
-- **[Guided Grammar Lessons](guided-lessons/)** — Structured curriculum mode if you'd rather the app decide what to study next.
+
+### Across modules
+
+- **[Guided Grammar Lessons](guided-lessons/)** — Structured curriculum mode if you'd rather the app decide what to study next (arriving v1.3).
 
 ---
 
