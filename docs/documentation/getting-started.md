@@ -1,5 +1,5 @@
 ---
-description: From install to running your first LinguaMorpha drill in five minutes — set up voices, pick Self Study or Guided Grammar Lessons, and run a first session.
+description: From install to running your first LinguaMorpha drill in five minutes — pick a module (Latin or Spanish), set up voices, and run a first session.
 ---
 
 # Getting Started with LinguaMorpha
@@ -20,7 +20,20 @@ LinguaMorpha stores all your data on the device — there is no account to creat
 
 ---
 
-## 2. Set up speech (one-time, strongly recommended)
+## 2. Pick your module
+
+LinguaMorpha v1.0 ships with two modules:
+
+- **Latin** — the flagship. All five declensions, all five adjective patterns, comparative + superlative, macron-accurate answer checking, sentence parser, concordance drill.
+- **Spanish** — the first additional module. Full verb conjugation, noun gender + plurals, phrases, and words.
+
+Tap the **flag icon** on the top-left of the home screen to switch between them. Your study history is kept separately per module — switching back and forth doesn't lose anything.
+
+Don't see French / Italian / Portuguese? Those arrive in v1.2 / v1.4 / v1.6 as free updates.
+
+---
+
+## 3. Set up speech (Spanish only, strongly recommended)
 
 LinguaMorpha speaks Spanish words and forms aloud using iOS speech synthesis. iOS includes Spanish voices at three quality levels — **Standard** (installed by default, sounds robotic), **Enhanced**, and **Premium**. The Enhanced and Premium voices are free to download and sound dramatically better.
 
@@ -29,51 +42,63 @@ LinguaMorpha speaks Spanish words and forms aloud using iOS speech synthesis. iO
 3. Choose a region (Spain, Mexico, Latin America, …) and tap the download icon next to any voice marked **Enhanced** or **Premium**. The download is a few hundred megabytes — use Wi-Fi.
 4. Back in LinguaMorpha, tap the **gear icon → Speech** and pick the voice you just downloaded.
 
----
-
-## 3. Decide: Self Study or Guided Grammar Lessons?
-
-LinguaMorpha offers two modes.
-
-**Self Study** is for when you know what you want to drill — a specific tense, a vocabulary theme, a grammar group. You decide which words and tenses are in play, then run the test that fits.
-
-**Guided Grammar Lessons** is for when you want a structured curriculum that decides what to study next for you. Lessons unlock in order and combine vocabulary and grammar progressively.
-
-If you're new to Spanish or unsure where to start, begin with **Guided Grammar Lessons**. If you have a specific goal — say, getting the pretérito indefinido automatic — **Self Study** is the right tool.
+**Latin doesn't have a native iOS TTS voice** in v1.0 — Apple hasn't built one. An approximate classical pronunciation mode (Italian voice + transformation layer) is scheduled for v1.5. For v1.0, Latin is read, not spoken.
 
 ---
 
-## 4. Run your first Self Study session
+## 4. Run your first session
 
-Here's a concrete first session that's hard to get wrong:
+Here's a concrete first session that's hard to get wrong. Pick the one that matches your active module.
+
+### Latin — declension paradigms
+
+1. From the home screen, tap **Self Study → Grammar → Nouns**.
+2. Tap **Declension paradigms** under Study. You're now looking at the five declensions side by side.
+3. Tap any noun (e.g. *puella*) to see its full 6-case × 2-number paradigm.
+4. Once that feels familiar, go back and tap **Decline the noun** under Test. Type the form the prompt asks for; the answer-check is lenient on macrons by default.
+
+### Spanish — A1 nouns
 
 1. From the home screen, tap **Self Study → Nouns**.
 2. Tap **Select Nouns** and set **CEFR Level** to **A1**.
 3. Set **Session Size** to **20**.
-4. Go back and tap **Test word meaning**.
+4. Go back and tap **Word Meanings Flashcard**.
 5. Work through the flashcards. After each card, rate yourself **Correct**, **Difficult**, or **Incorrect**.
 
 Every answer is recorded locally. The next session will give you 20 more — prioritising words you haven't seen, then words you got wrong.
 
 ---
 
-## 5. Filter precisely as you grow
+## 5. Try the sentence parser (Latin)
 
-Once basic vocabulary feels solid, broaden your selection step by step:
+The killer Latin feature, worth seeing in your first session:
 
-- Add A2 nouns to your pool.
-- Open **Self Study → Verbs → Select Verbs**, switch to the **Verb Groups** tab, and tick **Regular -ar** only. Set the tense filter to **Present**.
-- Get the regular present tense automatic before adding stem-changing or irregular groups.
+1. **Self Study → Identify a Form**.
+2. Switch the mode toggle from **Word** to **Sentence**.
+3. Paste any Latin sentence — Caesar's *Gallia est omnis dīvīsa in partēs trēs* works perfectly.
+4. Tap **Parse**.
 
-For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEFR / frequency / topic) or by **Verb Groups** (regular, stem-changing, go-verbs, strong preterite, reflexive, …). Pick whichever matches what you want to drill.
+Every word becomes a chip showing its lemma, case, number, gender, tense, voice, and translation. Tap any chip to jump to that word's full paradigm.
 
 ---
 
-## 6. Check your progress
+## 6. Filter precisely as you grow
+
+Once basic vocabulary feels solid, broaden your selection step by step.
+
+**Latin:** in **Select declensions**, restrict to one declension at a time and master each paradigm before moving on. Same for **Select pronoun classes** (Personal → Demonstrative → Relative → Interrogative is the textbook order) and **Select adjective patterns**.
+
+**Spanish:** open **Self Study → Verbs → Select Verbs**, switch to the **Verb Groups** tab, and tick **Regular -ar** only. Set the tense filter to **Present**. Get the regular present tense automatic before adding stem-changing or irregular groups.
+
+---
+
+## 7. Check your progress
 
 After a week or two of regular practice, tap the **chart icon** on the top left of the main screen to open **My Progress**. You'll see a calendar-month activity heatmap (darker squares = more answers that day), a Coverage view showing how much of each catalogue you've touched, an Accuracy breakdown by exercise type and tense and verb group, a Word Performance list of weakest words to focus on, and time-series Trends.
 
 You can also share a full progress report as a PDF from the share icon on that screen. See the [My Progress page](../user-guide/progress/) for the full tour.
+
+*(Per-module performance tracking is fully wired for Spanish in v1.0; Latin drills work the same way but write to the performance database in a follow-up release.)*
 
 ---
 

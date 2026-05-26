@@ -35,9 +35,11 @@ You may not:
 
 ## Free trial and one-time purchase
 
-The App offers a **free trial** with full access to all features. The trial length and the one-time purchase price are displayed inside the App and on the App Store; both are set in App Store Connect and may change between versions.
+The App offers a **21-day free trial** with full access to every feature.
 
-After the trial ends, full practice features remain available only after you complete a **one-time in-app purchase**. The purchase is a single payment — it is **not** a subscription, does **not** auto-renew, and does not result in any recurring charges. Once purchased, the App remains unlocked on the Apple ID used for the purchase, and you can restore the purchase on any of your devices signed into the same Apple ID using the "Restore Previous Purchase" button inside the App. Every future Western Romance module (French, Italian, Portuguese) and the structured-lessons system are included in this one-time purchase at no additional charge.
+After the trial ends, full practice features remain available only after you complete a **one-time in-app purchase of €29.99**. The purchase is a single payment — it is **not** a subscription, does **not** auto-renew, and does not result in any recurring charges. Once purchased, the App remains unlocked on the Apple ID used for the purchase, and you can restore the purchase on any of your devices signed into the same Apple ID using the "Restore Previous Purchase" button inside the App. Every future Western Romance module (French, Italian, Portuguese) and the structured-lessons system are included in this one-time purchase at no additional charge.
+
+Pricing in non-Euro App Store regions is set by Apple's regional pricing matrix and may differ slightly from the headline €29.99 figure; the App Store listing in your region is the source of truth.
 
 All purchases are processed through the Apple App Store and are subject to Apple's terms. Refund requests are handled by Apple — see <https://reportaproblem.apple.com>.
 

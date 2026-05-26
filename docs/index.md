@@ -106,6 +106,6 @@ LinguaMorpha is built for adults who have outgrown the chatbot-and-streak apps a
 
 ## Get Started
 
-LinguaMorpha is available on the App Store for iPhone and iPad. Free trial inside the app; one-time purchase to unlock — no subscriptions, no recurring charges, no auto-renew. Every future module included free.
+LinguaMorpha is available on the App Store for iPhone and iPad. **Free to use for 21 days** with every feature unlocked; after that, a single **one-time purchase of €29.99** unlocks the app for good — no subscriptions, no recurring charges, no auto-renew. Every future Western Romance module (French, Italian, Portuguese) and the structured-lessons system are included in that one purchase.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>

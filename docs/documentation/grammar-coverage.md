@@ -1,18 +1,115 @@
 ---
-description: What Spanish grammar LinguaMorpha drills and how — every tense, every verb group, every noun pattern, with explicit rules, colour-coded irregular forms, and adaptive drills.
+description: What grammar LinguaMorpha drills — Latin morphology in full (all declensions, all adjective patterns, all tenses) plus Spanish verb conjugation, noun gender / plural, and adjectives, with explicit rules and adaptive drills.
 ---
 
 # Grammar Coverage
 
-LinguaMorpha was built around a simple conviction: the grammar of Spanish is **knowable**. There are rules, the irregular forms cluster into patterns, and once you can see those patterns, the language stops feeling arbitrary. This page is a tour of the grammar LinguaMorpha drills and the ways the app makes that grammar visible.
+LinguaMorpha was built around a simple conviction: the grammar of these languages is **knowable**. There are rules, the irregular forms cluster into patterns, and once you can see those patterns, the language stops feeling arbitrary. This page is a tour of the grammar LinguaMorpha drills, module by module, and the ways the app makes that grammar visible.
 
 ---
 
-## Verb grammar
+## Latin
 
-Verbs do most of the work in Spanish, and most of the difficulty for learners. LinguaMorpha covers around **1,500 verbs** across the full conjugation surface.
+The Latin module is the deepest the app gets. Catalogue at v1.0:
 
-### Tense coverage
+- **~300 verbs** across all five conjugations
+- **~270 nouns** across all five declensions
+- **~150 adjectives** across all five patterns
+- **11 pronouns** with full case×number×gender paradigms
+- **29 numerals**
+
+### Verb grammar
+
+Every classical tense, mood, and voice the morphology engine can derive — drilled with the same Setup / Study / Test pipeline as Spanish.
+
+**Indicative — present system (active + passive)**
+
+- Praesēns
+- Imperfectum
+- Futūrum
+
+**Indicative — perfect system (active + passive — periphrastic with PPP + esse)**
+
+- Perfectum
+- Plūsquamperfectum
+- Futūrum Exactum
+
+**Subjunctive — every tense (active + passive)**
+
+- Praesens Subjūnctīvus
+- Imperfectum Subjūnctīvus
+- Perfectum Subjūnctīvus
+- Plūsquamperfectum Subjūnctīvus
+
+**Imperative**
+
+- Praesens (the everyday "do this!")
+- Futūrum (formal / legal register — Twelve Tables, prayers, philosophical maxims)
+- Plus their passive counterparts
+
+**Non-finite forms**
+
+- Six infinitives (three tenses × two voices)
+- All four participles (Praesens Āctīvum, Perfectum Passīvum, Futūrum Āctīvum, Futūrum Passīvum / Gerundīvum)
+- Gerundium (verbal noun)
+- Supīnum (acc. -um for purpose, abl. -ū for respect)
+
+You can toggle any tense on or off in **Select Tenses**, the same way Spanish works.
+
+### Noun grammar
+
+All five declensions are first-class:
+
+- **First** (-a / -ae, mostly feminine): *puella*, *aqua*, *rosa*
+- **Second** (-us / -ī or -um / -ī, mostly masculine or neuter, plus the -er masculine sub-pattern): *servus*, *bellum*, *puer*
+- **Third** (varies / -is, all genders) — including the **i-stem** sub-pattern (*urbs*, *cīvis*, *mare*) and the **-or → masculine** convention with feminine exceptions (*arbor*) all handled explicitly
+- **Fourth** (-us / -ūs, mostly masculine, with notable feminine *manus*, *domus*): *exercitus*, *fructus*
+- **Fifth** (-ēs / -ēī, almost all feminine): *diēs*, *rēs*
+
+**Selection grain:** the Setup picker lets you scope the drill pool to whichever declensions you want active. Two **irregular** nouns (*vīs*, *Iuppiter*) sit outside the picker because their paradigms aren't auto-generated; both are listed in a footnote so you can see what's excluded.
+
+### Adjective grammar
+
+All five textbook patterns:
+
+- **1st/2nd-decl** (-us / -a / -um): *bonus*, *magnus* — masc 2nd-decl, fem 1st-decl, neut 2nd-decl
+- **1st/2nd-decl -er** (-er / -a / -um): *pulcher*, *miser*, *sacer* — same shape but the masc nominative drops -us
+- **3rd-decl two-ending** (*fortis* / *forte*): masc + fem share a form, neut takes -e
+- **3rd-decl one-ending** (*ingēns*, gen. *ingentis*): identical across genders in nom., distinct paradigm via genitive stem
+- **3rd-decl three-ending** (*ācer* / *ācris* / *ācre*): three distinct nominative singulars
+
+**Comparative + superlative derivation:** every adjective produces its comparative (*-ior / -ius*) and superlative (*-issimus / -ior + -rimus* for -er stems / -illimus for *facilis*-family). Irregulars (*bonus → melior → optimus*, *magnus → maior → maximus*) are stored explicitly.
+
+### Pronouns and numerals
+
+Both surfaced as top-level Grammar categories.
+
+**Pronouns** — eleven all-irregular paradigms grouped by pedagogical class:
+
+- **Personal:** *ego*, *tū*, *suī* (reflexive)
+- **Demonstrative:** *is*, *hic*, *ille*, *iste*, *ipse*, *īdem*
+- **Relative:** *quī*
+- **Interrogative:** *quis*
+
+**Numerals** — 29 cardinal numbers. Three decline fully (*ūnus / duo / trēs*) and get the full paradigm view; the rest (*quattuor* through *centum*, plus *mīlle*) are indeclinable and surface as a reference card with the citation form.
+
+### How the app makes Latin patterns visible
+
+**Macron-accurate answer checking.** The default check is lenient — *rosa* counts as right when *rōsa* is expected, with a gentle reminder. A toggle in Preferences switches to strict mode for users who want vowel length in their muscle memory.
+
+**Sentence parser.** Paste any Latin text into Self Study → **Identify a Form** (sentence mode); every word becomes a tap-through chip with its full parse. Handles enclitics, capitalisation, punctuation, and macron-folded matches.
+
+**Concordance drill.** Show a Latin sentence with a blank where an adjective should go; the noun is rendered in its inflected form; the learner picks the adjective form that agrees. Wrong-answer feedback explains which axis (gender / number / case) was off.
+
+**Auto-generated example sentences.** Every noun and adjective gets 3 sentences piped through the concordance template library — focus form bolded, case + number tag below. Hand-curated examples take precedence where they exist.
+
+---
+
+## Spanish
+
+The first additional module — fully wired into the same Setup / Study / Test pipeline, with around **1,100 verbs**, **1,300 nouns**, and **6,000 phrases**.
+
+### Verb grammar
 
 Every Spanish tense your textbook covers — and several it probably doesn't:
 
@@ -49,7 +146,7 @@ Every Spanish tense your textbook covers — and several it probably doesn't:
 
 - Infinitivo, Gerundio (present participle), Participio (past participle).
 
-You can switch any tense on or off in **Select Tenses**, so a session can be anything from "just *Presente* across all verbs" to "every subjunctive tense for stem-changing verbs only".
+You can switch any tense on or off in **Select Tenses**.
 
 ### Verb groups
 
@@ -80,7 +177,7 @@ Most Spanish verbs are regular — but the irregular ones cluster into recognisa
 
 You can select any combination of these groups — for instance, "all stem-changers" gives you one focused drill across hundreds of verbs that share the same pattern family.
 
-### How the app makes the patterns visible
+### How the app makes Spanish patterns visible
 
 **Colour coding.** Inside every conjugation table, only the part of a form that deviates from the regular pattern is highlighted in red. The rest stays in the default text colour. When the entire form is red, the verb is irregular as a whole (think *ser*, *ir*) and has to be memorised. When the *yo* form is red but everything else is plain, it's a *yo-go* irregular. When the stem vowel is red across the four "boot" persons (*yo*, *tú*, *él*, *ellos*) but plain in *nosotros*/*vosotros*, it's a classic stem-changer. The shape of the irregularity tells you what kind of verb you're looking at.
 
@@ -95,80 +192,36 @@ You can select any combination of these groups — for instance, "all stem-chang
 - **Gerundio** — recall the present-participle form.
 - **Indefinido** — drill the *yo* and *él* preterite forms, where the strongest irregularities live.
 
----
+### Noun grammar
 
-## Noun grammar
+Nouns are the area learners most often try to "just memorise" — and the area where pattern recognition pays off most. LinguaMorpha covers around 1,300 nouns plus the rules and patterns that govern them.
 
-Nouns are the area learners most often try to "just memorise" — and the area where pattern recognition pays off most. LinguaMorpha covers around **1,100 nouns** plus the rules and patterns that govern them.
+**Noun groups.** Like verbs, Spanish nouns cluster into recognisable patterns. A noun typically belongs to several groups at once (e.g. *lápiz* is both `z → -ces` and accent-loss-in-plural), so the group filter lets you target very specific patterns:
 
-### Noun groups
+- **Gender traps** — *mano* / *foto* end in *-o* but are feminine; *día* / *problema* / *sistema* end in *-a* but are masculine.
+- **Greek -ema / -ama / -oma** — the closed set of Greek-origin masculines.
+- **Feminine suffixes** — *-ción*, *-sión*, *-dad*, *-tad*, *-tud*, *-umbre*, *-ie*, *-itis*.
+- **Masculine suffixes** — *-or*, *-aje*, *-án*, *-ambre*, *-ón* (mostly).
+- **Stressed *a* + feminine** — *el agua*, *el águila*, *el alma* (singular only).
+- **Pairs** — *el tío* / *la tía*.
+- **Epicene** — single form for both genders.
+- **Meaning-changes pairs** — *el capital* (money) vs *la capital* (capital city).
+- **Heteronymous pairs** — *padre* / *madre*, *hombre* / *mujer*.
+- **Invariable plural** — *el lunes* / *los lunes*.
+- **Mass nouns** — typically singular only.
+- **Plurale tantum** — *los pantalones*, *las gafas*.
+- **Plural formation rules** — *z → -ces*, accent loss, consonant + -es.
+- **False cognates** — *embarazada* ≠ embarrassed.
 
-Like verbs, Spanish nouns cluster into recognisable patterns. A noun typically belongs to several groups at once (e.g. *lápiz* is both `z → -ces` and accent-loss-in-plural), so the group filter lets you target very specific patterns:
+**Drills.** Four dedicated noun tests: Meaning, Pick the Correct Article, Singular / Plural, Alternate Gender Pairs. Plus three reference screens (Gender Rules, Alternate Gender Explained, Plural Formation).
 
-**Gender patterns**
+### Phrases and example sentences
 
-- **Gender traps** — nouns whose gender disagrees with what the ending would predict. *Mano* and *foto* end in *-o* but are feminine; *día*, *problema*, *sistema*, *tema* end in *-a* but are masculine.
-- **Greek -ema / -ama / -oma** — the closed set of Greek-origin masculine nouns (*problema*, *tema*, *sistema*, *idioma*, *clima*, *programa*, *diploma*, …). Useful as a focused gotcha drill.
-- **Feminine suffixes** — *-ción*, *-sión*, *-dad*, *-tad*, *-tud*, *-umbre*, *-ie*, *-itis* (regular feminine markers).
-- **Masculine suffixes** — *-or*, *-aje*, *-án*, *-ambre*, *-ón* (mostly), and the *-l/-r/-n/-s* final consonants where masculine is the default.
-- **Stressed *a* + feminine** — feminine nouns starting with a stressed *a-* / *ha-* that take the masculine article in the singular for euphony: *el agua*, *el águila*, *el alma*, *el área* — but plural *las aguas*, *las águilas*, *las almas*, *las áreas*.
-
-**Pair shapes**
-
-- **Pairs** — *el tío* / *la tía*, *el profesor* / *la profesora*, *el chico* / *la chica*.
-- **Epicene** — single form covering both genders (*la persona*, *el bebé*, *la víctima*).
-- **Meaning-changes pairs** — *el capital* (money) vs *la capital* (capital city); *el orden* (sequence) vs *la orden* (command); *el cura* (priest) vs *la cura* (cure).
-- **Heteronymous pairs** — different words entirely: *padre* / *madre*, *hombre* / *mujer*, *yerno* / *nuera*.
-
-**Plural class**
-
-- **Invariable** — plural form equals singular: *el lunes* / *los lunes*, *el paraguas* / *los paraguas*.
-- **Mass nouns** — typically singular only: *el agua*, *la leche*, *el dinero* (though *los dineros* exists in restricted senses).
-- **Plurale tantum** — only used in the plural: *los pantalones*, *las gafas*, *las tijeras*, *los celos*.
-- **Collective** — plural references the pair (*los tíos* = *el tío* + *la tía*).
-
-**Plural formation**
-
-- **z → -ces** (*lápiz → lápices*, *luz → luces*, *vez → veces*).
-- **Accent loss in plural** (*canción → canciones*, *jamón → jamones*).
-- **Consonant + -es** (*flor → flores*, *ciudad → ciudades*).
-- **Stem change in plural** — the rare cases where a vowel changes between singular and plural.
-
-**Pedagogical**
-
-- **False cognates** — Spanish nouns that look like English words but mean something different (*embarazada* ≠ embarrassed, *éxito* ≠ exit, *librería* ≠ library, *carpeta* ≠ carpet). Flagged in the data so you can drill them as a separate set.
-- **Regular** — catch-all for the 600+ nouns with no special pattern, so "select all groups" really does mean every noun.
-
-### How the app makes the patterns visible
-
-**Drills tuned to specific noun patterns.** Four dedicated noun tests:
-
-- **Meaning Test** — Spanish noun ↔ translation (the bread-and-butter drill).
-- **Pick the Correct Article** — *el* or *la*? A binary tap, fastest way to lock in gender.
-- **Singular / Plural** — given the singular, produce the plural form (drills the *-s* / *-es* / *-ces* rules and the accent shifts).
-- **Alternate Gender Pairs** — given one half of a meaning-changing pair, produce the other with the correct article.
-
-**Reference screens.** Three dedicated study pages live alongside the drills:
-
-- **Noun Gender Rules** — the patterns that let you predict gender from the ending most of the time.
-- **Alternate Gender Explained** — every meaning-changing pair, both meanings shown side by side.
-- **Plural Formation** — the *-s* / *-es* / *-ces* rules with accent-shift examples.
-
-**Detail views.** Tap any noun in any list to open a detail view with translation, the plural form, gender, CEFR level, frequency, topic tags, three example sentences, and external-dictionary lookup chips. Use it whenever a quick look would help.
+Around **240 curated set phrases** plus around **5,700 example sentences** synthesised from the verb and noun catalogues — every verb / noun example sentence is also drillable as its own phrase. That brings Phrases to ~6,000 entries total. A dedicated **Example** topic tag toggles the synthesised layer on or off.
 
 ---
 
-## Phrases and example sentences
-
-Curated set phrases — *buenos días*, *de vez en cuando*, *encantado*, *a pesar de* — get their own section in the app. Around 240 of them, hand-tagged with CEFR level, frequency, and topic.
-
-But the real depth comes from how the app reuses its example-sentence corpus. Every example sentence attached to a verb (around 2,400 sentences across ~800 verbs, three per verb) or a noun (around 3,300 sentences across ~1,100 nouns) is also drillable as its own phrase. That brings the Phrases pool to around **6,000 entries** — every complete Spanish sentence the app already shows you in a detail view becomes something you can practice on its own.
-
-A dedicated **Example** topic tag lets you toggle that whole synthesised layer on or off in a single tap, so you can drill curated set phrases in isolation or include the full corpus.
-
----
-
-## The adaptive engine
+## The adaptive engine (cross-module)
 
 Coverage is only half the story. What makes LinguaMorpha feel different is that the app **uses what it knows about you** to decide what to drill next:
 
@@ -179,10 +232,12 @@ Coverage is only half the story. What makes LinguaMorpha feel different is that 
 
 No subscriptions, no cloud, no account. Everything is on your device.
 
+*(Adaptive learning is fully wired for Spanish in v1.0; Latin drills work the same way but write to the performance database in a follow-up release.)*
+
 ---
 
 ## Where to next
 
 - [Features overview](features.md) — what's in the app.
 - [Getting Started](getting-started.md) — install, set up voices, run your first session.
-- [Recipes](recipes.md) — worked scenarios: "I want to study Pretérito Imperfecto", "I'm going to Madrid", "I keep mixing up por and para".
+- [Recipes](recipes.md) — worked scenarios: "I want to study Latin's 3rd declension", "I want to study Pretérito Imperfecto", "I keep mixing up por and para".
