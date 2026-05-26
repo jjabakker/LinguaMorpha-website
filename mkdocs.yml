@@ -94,6 +94,7 @@ nav:
         - Browse Words: user-guide/words/study/index.md
         - Word Meanings: user-guide/words/test/index.md
     - Guided Grammar Lessons: user-guide/guided-lessons/index.md
+  - Follow: follow.md
   - Privacy: privacy-policy.md
   - Terms: terms.md
   - Support: support.md
@@ -103,6 +104,22 @@ extra:
     - icon: fontawesome/brands/app-store-ios
       link: https://apps.apple.com/app/6771902489
       name: Download on the App Store
+    # Social-channel icons below are commented out until the
+    # corresponding accounts are created — see Docs/TODO.md →
+    # "Pre-launch social accounts". Uncomment each line as the
+    # account goes live, and update the handle in the URL.
+    # - icon: fontawesome/brands/mastodon
+    #   link: https://hachyderm.io/@linguamorpha
+    #   name: Follow LinguaMorpha on Mastodon
+    # - icon: fontawesome/brands/bluesky
+    #   link: https://bsky.app/profile/linguamorpha.nl
+    #   name: Follow LinguaMorpha on Bluesky
+    # - icon: fontawesome/brands/x-twitter
+    #   link: https://x.com/linguamorpha
+    #   name: Follow LinguaMorpha on X
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/company/linguamorpha
+    #   name: LinguaMorpha on LinkedIn
 
 plugins:
   - search
