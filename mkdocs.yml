@@ -92,6 +92,20 @@ extra:
 
 plugins:
   - search
+  # Workaround for an App Store Connect typo: the Privacy Policy URL
+  # field for v1.0 was saved as `/privacy-polic` (missing the trailing
+  # `y`) and ASC locks the field until a new version is submitted —
+  # which means Apple's automated reachability check would 404 against
+  # the typo URL during v1.0 review. This redirect makes
+  # `/privacy-polic/` serve a tiny stub that meta-refreshes to
+  # `/privacy-policy/`, so Apple gets a 200 and any human who taps
+  # through to the App Store privacy link still lands on the right
+  # page. Remove this entry (and `mkdocs-redirects` from
+  # requirements.txt) once the ASC URL has been corrected in the v1.1
+  # metadata cycle.
+  - redirects:
+      redirect_maps:
+        'privacy-polic.md': 'privacy-policy.md'
   - social:
       cards_layout_options:
         background_color: "#22396F"

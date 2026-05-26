@@ -1,1 +1,3 @@
 mkdocs-material[imaging]==9.7.*
+mkdocs-redirects==1.2.*
+
