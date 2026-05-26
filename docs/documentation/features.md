@@ -120,6 +120,6 @@ LinguaMorpha stores everything locally on your device. There is no account, no s
 
 ## Pricing
 
-LinguaMorpha is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required up front. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads, no in-app upsells.
+LinguaMorpha is **free to download** from the App Store and includes a **free trial** with full access to every feature. After the trial, a single **one-time purchase** unlocks the app for good — the trial length and the unlock price are shown inside the App and on the App Store listing (both are configured in App Store Connect and may change between versions). No subscriptions, no renewals, no ads, no in-app upsells.
 
-The price is per Apple ID, so it covers your iPhone and iPad together if both are signed in to the same account. Currency and exact amount may vary slightly by App Store region — the App Store listing is the source of truth for your country.
+The purchase is per Apple ID, so it covers your iPhone and iPad together if both are signed in to the same account. **Every future Western Romance module — French, Italian, Portuguese — and the structured-lessons system are included in this one-time purchase at no additional charge.** Currency and exact amount vary by App Store region; the App Store listing is the source of truth for your country.

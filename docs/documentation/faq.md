@@ -14,7 +14,7 @@ A focused practice environment for Spanish **verb conjugation**, **noun vocabula
 
 **Is LinguaMorpha free?**
 
-LinguaMorpha is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads. The price is per Apple ID, so it covers iPhone and iPad together if both are signed in to the same account.
+LinguaMorpha is **free to download** from the App Store and includes a **free trial** with full access to every feature. After the trial, a single **one-time purchase** unlocks the app for good — the trial length and the unlock price are displayed inside the App and on the App Store (both are configured in App Store Connect and may change between versions). No subscriptions, no renewals, no ads. The purchase is per Apple ID, so it covers iPhone and iPad together if both are signed in to the same account. Every future Western Romance module (French, Italian, Portuguese) and the structured-lessons system are included in this one-time purchase at no additional charge.
 
 **What devices does LinguaMorpha support?**
 
