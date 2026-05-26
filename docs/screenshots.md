@@ -95,4 +95,4 @@ A visual tour of LinguaMorpha — every major screen in the app.
 ---
 
 [View the full User Guide →](user-guide/index.md){ .md-button }
-<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="../assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
+<a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="../assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>

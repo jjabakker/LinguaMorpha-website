@@ -67,7 +67,7 @@ We love hearing from users. If you have a feature idea or general feedback:
 
 You can also leave a review on the App Store — it helps more learners discover LinguaMorpha.
 
-<a class="app-store-badge" href="https://apps.apple.com/app/6764284291?action=write-review"><img src="../assets/images/app-store-rate-badge.svg" alt="Rate on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
+<a class="app-store-badge" href="https://apps.apple.com/app/6771902489?action=write-review"><img src="../assets/images/app-store-rate-badge.svg" alt="Rate on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
 ---
 

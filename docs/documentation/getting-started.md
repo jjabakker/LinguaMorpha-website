@@ -12,7 +12,7 @@ This page gets you from "just installed" to "running your first useful drill" in
 
 LinguaMorpha is available for iPhone and iPad.
 
-<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="../../assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
+<a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="../../assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
 **Requirements:** iOS 16.0 or later.
 

@@ -15,7 +15,7 @@ This is the source for the [LinguaMorpha](https://jjabakker.github.io/linguamorp
 
 ### Step 2 — Update your details in mkdocs.yml
 
-Open `mkdocs.yml` and replace every `jjabakker` placeholder with your actual GitHub username, and `6764284291` with your App Store app ID.
+Open `mkdocs.yml` and replace every `jjabakker` placeholder with your actual GitHub username, and `6771902489` with your App Store app ID.
 
 ### Step 3 — Push the project to GitHub
 
