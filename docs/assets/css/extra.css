@@ -81,11 +81,21 @@
   color: rgba(255, 255, 255, 0.92) !important;
 }
 
-/* Make the logo and site title in the header bigger and visually paired */
+/* Make the logo and site title in the header bigger and visually paired.
+   The default Material header wraps the logo in an .md-header__button
+   that adds ~8px of padding on every side — that's the navy 'frame'
+   you see around a small 40×40 icon. Bumping the logo to 56×56 plus
+   reducing the button's own padding lets the icon dominate its header
+   square instead of floating in a sea of navy. */
+.md-header__button.md-logo {
+  padding: 0.2rem;
+  margin: 0;
+}
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  height: 40px;
-  width: 40px;
+  height: 56px;
+  width: 56px;
+  border-radius: 12px; /* match the iOS rounded-corner aesthetic */
 }
 
 .md-header__title {
