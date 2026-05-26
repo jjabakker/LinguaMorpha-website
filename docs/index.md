@@ -1,20 +1,20 @@
 ---
 hide:
   - toc
-description: LinguaMorpha is a Latin-based language platform. Master Latin morphology with macron-accurate drills, then watch every Romance language fall into place. Spanish included today; French, Italian, and Portuguese arrive as free updates. iPhone and iPad.
+description: LinguaMorpha is a Romance-language morphology platform. Pick the module you want — Latin, Spanish, or any of French, Italian, and Portuguese (free updates). Each module is a complete study system in its own right. iPhone and iPad.
 ---
 
 # LinguaMorpha
 
 <div class="hero-section" markdown>
 
-## A Latin-based language platform.
+## A morphology-first language platform.
 
-Master Latin first. Then watch every Romance language you ever try to learn fall into place — because every one of them descends from Latin, keeps Latin's patterns, and breaks Latin's rules in ways that suddenly make sense once you know the root.
+Pick the module you want. **Latin** covers every declension, every adjective pattern, comparative and superlative, with macron-accurate answer checking and a sentence parser that handles arbitrary Latin text. **Spanish** ships with 1,100 verbs, 1,300 nouns, every major tense, irregular forms colour-coded down to the syllable, and around 6,000 drillable phrases. Each module is a complete study system in its own right — start wherever you actually want to learn.
 
-LinguaMorpha covers the morphology of **Latin** (all five declensions, all five adjective patterns, comparative and superlative, macron-accurate answer checking) and ships with **Spanish** as the first additional module (1,100 verbs, 1,300 nouns, every major tense). The adaptive engine prioritises the words you keep getting wrong, so every session works on what needs work.
+The two modules share an engine, not a prerequisite. If you're here for Spanish, you never need to touch Latin; if you're here for Latin, you get the deepest morphology coverage any consumer iOS app offers. The adaptive engine prioritises the words you keep getting wrong, so every session works on what needs work.
 
-**French, Italian, and Portuguese arrive as free updates over the next twelve months.** No subscriptions. No advertising. No accounts. Your answers stay on your device. Buy once; every future Western Romance module is included forever.
+**French, Italian, and Portuguese arrive as free updates over the next twelve months** — each fully drillable on its own, no language-tree climbing required. No subscriptions. No advertising. No accounts. Your answers stay on your device. Buy once; every future Romance module is included forever.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
@@ -27,8 +27,8 @@ LinguaMorpha covers the morphology of **Latin** (all five declensions, all five 
 <div class="features-grid" markdown>
 
 <div class="feature-card" markdown>
-### 🏛️ Latin done right
-All five declensions including i-stem and 4th-decl neuter. All five adjective patterns including comparative and superlative. Macron-accurate answer checking. The Latin coverage no other consumer iOS app touches.
+### 🏛️ Latin in full
+All five declensions including i-stem and 4th-decl neuter. All five adjective patterns including comparative and superlative. Macron-accurate answer checking. The deepest Latin coverage on consumer iOS — for anyone here for Latin specifically.
 </div>
 
 <div class="feature-card" markdown>
@@ -42,8 +42,8 @@ Every answer is recorded locally. Unseen words appear first (ordered by CEFR + f
 </div>
 
 <div class="feature-card" markdown>
-### 🇪🇸 Spanish included
-Spanish ships as the first additional module: 1,100 verbs, 1,300 nouns, six verb drill modes, full noun-gender and plural support, expressions, and Apple-voice text-to-speech with Enhanced and Premium voices.
+### 🇪🇸 Spanish in full
+A complete Spanish study system in its own right: 1,100 verbs, 1,300 nouns, six verb drill modes, full noun-gender and plural support, ~6,000 phrases, and Apple-voice text-to-speech with Enhanced and Premium voices.
 </div>
 
 <div class="feature-card" markdown>
@@ -53,7 +53,7 @@ Type any inflected form — Latin or Spanish — and see what it parses as. Diac
 
 <div class="feature-card" markdown>
 ### 🔒 Yours forever
-Buy once. Every future Western Romance module is included free. No subscriptions, no ads, no accounts. Every answer stays on your device — local SQLite, never uploaded.
+Buy once. Every future Romance module is included free. No subscriptions, no ads, no accounts. Every answer stays on your device — local SQLite, never uploaded.
 </div>
 
 </div>
@@ -62,7 +62,7 @@ Buy once. Every future Western Romance module is included free. No subscriptions
 
 ## More modules coming — all as free updates
 
-LinguaMorpha is a platform. Latin and Spanish are what's in v1.0; the rest of the Western Romance family lands over the next year, plus a structured-lessons system. Every one of these is **included free** for anyone who buys v1.0.
+LinguaMorpha is a platform. Latin and Spanish are what ship in v1.0; the rest of the Western Romance family lands over the next year, plus a structured-lessons system. Each one is a complete module in its own right — you don't have to study any other module to make sense of the next. Every one of these is **included free** for anyone who buys v1.0.
 
 <div class="features-grid" markdown>
 
@@ -106,6 +106,6 @@ LinguaMorpha is built for adults who have outgrown the chatbot-and-streak apps a
 
 ## Get Started
 
-LinguaMorpha is available on the App Store for iPhone and iPad. **Free to use for 21 days** with every feature unlocked; after that, a single **one-time purchase of €29.99** unlocks the app for good — no subscriptions, no recurring charges, no auto-renew. Every future Western Romance module (French, Italian, Portuguese) and the structured-lessons system are included in that one purchase.
+LinguaMorpha is available on the App Store for iPhone and iPad. **Free to use for 21 days** with every feature unlocked; after that, a single **one-time purchase of €29.99** unlocks the app for good — no subscriptions, no recurring charges, no auto-renew. Every future Romance module (French, Italian, Portuguese) and the structured-lessons system are included in that one purchase.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6771902489"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>

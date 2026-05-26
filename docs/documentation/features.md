@@ -1,18 +1,18 @@
 ---
-description: LinguaMorpha features — Latin morphology with all five declensions, adjective patterns, sentence parser, and concordance drills, plus Spanish as the first additional module with verb conjugation, noun gender / plural, phrases, and adaptive sessions.
+description: LinguaMorpha features — Latin morphology with all five declensions, adjective patterns, sentence parser, and concordance drills, plus Spanish with verb conjugation, noun gender / plural, phrases, and adaptive sessions. Each module is a complete study system in its own right.
 ---
 
 # Features
 
-LinguaMorpha is a Latin-based language platform. The flagship is **Latin** — every declension, every adjective pattern, comparative and superlative, macron-accurate checking, plus a sentence parser that handles arbitrary Latin text. The first additional module is **Spanish**: full verb conjugation, noun gender and plurals, phrases, and words. French, Italian, and Portuguese arrive as free updates over the next twelve months.
+LinguaMorpha is a morphology-first language platform. **Latin** covers every declension, every adjective pattern, comparative and superlative, macron-accurate checking, plus a sentence parser that handles arbitrary Latin text. **Spanish** covers full verb conjugation across every major tense, noun gender and plurals, ~6,000 phrases, and single-word vocabulary. French, Italian, and Portuguese arrive as free updates over the next twelve months.
 
-Every feature below is shared infrastructure — the adaptive engine, the drill loop, the example-sentence rendering, the help system — that works the same way across every module. The differences are catalogue size and language-specific grammar quirks.
+Each module is a complete study system in its own right — pick the one you actually want to learn and ignore the rest. They share infrastructure (the adaptive engine, the drill loop, the example-sentence rendering, the help system), not a learning path. The differences are catalogue size and language-specific grammar quirks.
 
 ---
 
 ## Latin
 
-The Latin module is the deepest the app gets. Coverage as of v1.0:
+Latin gets the deepest morphological coverage because Latin's morphology is itself the deepest. Coverage as of v1.0:
 
 - **~300 verbs** across all five conjugations, with full tense paradigms (present-system + perfect-system, indicative + subjunctive + imperative, active + passive, plus participles, gerundive, infinitives, supine).
 - **~270 nouns** across all five declensions, including i-stem 3rd-declension, 4th-declension neuters, and plūrāle-tantum entries (*moenia*, *līberī*).
@@ -38,9 +38,9 @@ Every noun and adjective in the catalogue has **three auto-generated example sen
 
 ---
 
-## Spanish — first additional module
+## Spanish
 
-The first non-Latin module, fully wired into the same Setup / Study / Test pipeline.
+A complete Spanish module, fully wired into the same Setup / Study / Test pipeline as Latin. Nothing here assumes you know any Latin — Spanish stands entirely on its own.
 
 ### Verbs
 
@@ -113,7 +113,7 @@ Hidden in v1.0 to keep the launch focused; the implementation is there and teste
 
 ## What's coming
 
-LinguaMorpha is a platform. Latin and Spanish are what's in v1.0; the rest of the Western Romance family lands as free updates over the next year, plus the structured-lessons system. **Every one of these is included free in any v1.0 purchase.**
+LinguaMorpha is a platform. Latin and Spanish ship in v1.0; the rest of the Western Romance family lands as free updates over the next year, plus the structured-lessons system. Each new module will be a complete study system in its own right — no required order, no prerequisite climb. **Every one of these is included free in any v1.0 purchase.**
 
 - **v1.1** — Latin standout: the sentence parser, concordance drills, textbook vocab packs.
 - **v1.2** — **French**.
@@ -153,4 +153,4 @@ LinguaMorpha stores everything locally on your device. There is no account, no s
 
 LinguaMorpha is **free to download** from the App Store and **free to use for 21 days** with every feature unlocked. After the trial, a single **one-time purchase of €29.99** unlocks the app for good. No subscriptions, no renewals, no ads, no in-app upsells.
 
-The purchase is per Apple ID, so it covers your iPhone and iPad together if both are signed in to the same account. **Every future Western Romance module — French, Italian, Portuguese — and the structured-lessons system are included in this one-time purchase at no additional charge.** Pricing in non-Euro App Store regions follows Apple's regional pricing matrix; the App Store listing is the source of truth for your country.
+The purchase is per Apple ID, so it covers your iPhone and iPad together if both are signed in to the same account. **Every future Romance module — French, Italian, Portuguese — and the structured-lessons system are included in this one-time purchase at no additional charge.** Pricing in non-Euro App Store regions follows Apple's regional pricing matrix; the App Store listing is the source of truth for your country.

@@ -6,11 +6,13 @@ description: What grammar LinguaMorpha drills — Latin morphology in full (all 
 
 LinguaMorpha was built around a simple conviction: the grammar of these languages is **knowable**. There are rules, the irregular forms cluster into patterns, and once you can see those patterns, the language stops feeling arbitrary. This page is a tour of the grammar LinguaMorpha drills, module by module, and the ways the app makes that grammar visible.
 
+Each module is deep in its own way and is self-contained: study Latin for Latin, Spanish for Spanish, neither one depends on the other. They share an engine, not a syllabus.
+
 ---
 
 ## Latin
 
-The Latin module is the deepest the app gets. Catalogue at v1.0:
+Latin gets the deepest morphological coverage in the app because Latin's morphology is itself the deepest — five declensions, five adjective patterns, six tenses across two systems, every form macron-accurate. Catalogue at v1.0:
 
 - **~300 verbs** across all five conjugations
 - **~270 nouns** across all five declensions
@@ -107,7 +109,7 @@ Both surfaced as top-level Grammar categories.
 
 ## Spanish
 
-The first additional module — fully wired into the same Setup / Study / Test pipeline, with around **1,100 verbs**, **1,300 nouns**, and **6,000 phrases**.
+A complete Spanish study system in its own right — fully wired into the same Setup / Study / Test pipeline as Latin, with around **1,100 verbs**, **1,300 nouns**, and **6,000 phrases**. Nothing in this module assumes you know any Latin.
 
 ### Verb grammar
 

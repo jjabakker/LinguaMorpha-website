@@ -10,11 +10,15 @@ description: Frequently asked questions about LinguaMorpha — Latin and Spanish
 
 **What is LinguaMorpha?**
 
-A Latin-based language platform. The flagship module is **Latin** — every declension, every adjective pattern, comparative and superlative, macron-accurate answer checking, a sentence parser that handles arbitrary Latin text, and a concordance drill no other consumer iOS app implements. The first additional module is **Spanish** — full verb conjugation, noun gender and plurals, phrases, and words. French, Italian, and Portuguese arrive as free updates over the next twelve months. It is not a full language course; it is the structured, grammar-first drill tool you reach for when you want to actually master what you have been taught elsewhere. See the [Features page](features.md) for what's inside.
+A morphology-first language platform. **Latin** covers every declension, every adjective pattern, comparative and superlative, macron-accurate answer checking, a sentence parser that handles arbitrary Latin text, and a concordance drill no other consumer iOS app implements. **Spanish** covers full verb conjugation, noun gender and plurals, ~6,000 phrases, and single-word vocabulary. Each module is a complete study system in its own right — pick the one you actually want to learn. French, Italian, and Portuguese arrive as free updates over the next twelve months. It is not a full language course; it is the structured, grammar-first drill tool you reach for when you want to actually master what you have been taught elsewhere. See the [Features page](features.md) for what's inside.
+
+**Do I need to learn Latin first to get value out of Spanish (or French, Italian, Portuguese)?**
+
+No. The modules share infrastructure (the adaptive engine, the drill loop), not a learning path. If you're here for Spanish, you never need to touch Latin. If you're here for Latin, you don't need Spanish. Each module stands on its own.
 
 **Which languages can I learn?**
 
-In v1.0: **Latin** and **Spanish**. French arrives in v1.2, Italian in v1.4, Portuguese in v1.6 — all as **free updates** to anyone who buys v1.0.
+In v1.0: **Latin** and **Spanish**. French arrives in v1.2, Italian in v1.4, Portuguese in v1.6 — all as **free updates** to anyone who buys v1.0. Every module is fully drillable on its own; there is no required order.
 
 **Is LinguaMorpha free?**
 
