@@ -95,7 +95,19 @@
 .md-header__button.md-logo svg {
   height: 56px;
   width: 56px;
-  border-radius: 12px; /* match the iOS rounded-corner aesthetic */
+  /* The source PNG (1024×1024) has a ~70-px-deep WHITE border in
+     all four corners — that's an iOS convention: the OS applies
+     its own rounded-corner mask at render time, so the designer
+     leaves whatever colour outside the mask. Scaled to 56 px,
+     that white border is ~3.9 px deep diagonally; on iOS it's
+     invisible because the mask is ~22.5% radius (≈12.6 px on a
+     56-px icon), but a 12-px CSS border-radius only clips
+     ~3.5 px diagonally — so a thin sliver of white peeks past
+     the rounded edge, most visibly at top-right and bottom-left.
+     16 px clips ~4.7 px diagonally — enough margin to cover the
+     ~3.9-px white border, and it matches iOS's ~28% squircle
+     radius more closely. */
+  border-radius: 16px;
 }
 
 .md-header__title {
