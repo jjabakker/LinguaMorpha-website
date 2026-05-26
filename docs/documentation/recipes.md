@@ -14,7 +14,7 @@ You've decided to add the 3rd-decl i-stem nouns to your Latin (*civis, urbs, mar
 
 ### Day 1 — See the pattern
 
-1. From the home screen with Latin active, tap **Self Study → Grammar → Nouns**.
+1. From the home screen with Latin active, tap **Self Study → Nouns**.
 2. Tap **Declension paradigms** (Study). Scroll to 3rd-decl and find an i-stem example (e.g. *cīvis*).
 3. Compare the paradigm side-by-side with a non-i-stem 3rd-decl noun like *rēx*. Note the three cells where i-stems differ: abl.sg *-e* → *-ī*, gen.pl *-um* → *-ium*, neut nom/acc.pl *-a* → *-ia*.
 
@@ -149,7 +149,7 @@ When you can hit consistent 95% on the gender traps, swap back to the **Criteria
 
 Latin adjectives have to agree with their nouns in case, number, *and* gender. Most learners can produce a paradigm in isolation; almost nobody can pick the right form for a noun whose features they have to figure out from context. The Concordance Drill targets exactly that.
 
-1. **Self Study → Grammar → Adjectives**. Make sure your Setup pool (Select adjective patterns) covers what you're learning.
+1. **Self Study → Adjectives**. Make sure your Setup pool (Select adjective patterns) covers what you're learning.
 2. **Test → Agreement drill** (the concordance drill).
 3. Read the sentence carefully. Identify the noun's gender, case, and number from context — that's the actual skill being trained.
 4. Pick the adjective form. Wrong-answer feedback explains which axis you got wrong — *"bonum agrees with a neuter noun — puella is feminine."*

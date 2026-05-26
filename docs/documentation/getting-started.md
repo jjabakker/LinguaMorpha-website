@@ -52,7 +52,7 @@ Here's a concrete first session that's hard to get wrong. Pick the one that matc
 
 ### Latin — declension paradigms
 
-1. From the home screen, tap **Self Study → Grammar → Nouns**.
+1. From the home screen, tap **Self Study → Nouns**.
 2. Tap **Declension paradigms** under Study. You're now looking at the five declensions side by side.
 3. Tap any noun (e.g. *puella*) to see its full 6-case × 2-number paradigm.
 4. Once that feels familiar, go back and tap **Decline the noun** under Test. Type the form the prompt asks for; the answer-check is lenient on macrons by default.

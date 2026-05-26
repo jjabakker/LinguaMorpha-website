@@ -11,10 +11,14 @@ The Meaning Test is a flashcard drill for noun vocabulary. A noun appears in eit
     - **Native → Spanish**: you see the translation and recall the Spanish noun *with its article*.
     - **Mixed**: a random direction is picked for each card.
 2. Tap the card (or the **Show** button) to reveal the answer.
-3. Rate yourself with one of the three buttons:
-    - **Correct** — you knew it without hesitation.
-    - **Difficult** — you got there eventually, or were only partially right.
-    - **Incorrect** — you did not know it or were wrong.
+3. Rate yourself — two interchangeable ways:
+    - **Swipe** the card — right for Correct, left for Incorrect. The card flies off, the next one appears immediately.
+    - **Tap a button** — Correct / Difficult / Incorrect.
+        - **Correct** — you knew it without hesitation.
+        - **Difficult** — you got there eventually, or were only partially right. (Button-only — no swipe direction.)
+        - **Incorrect** — you did not know it or were wrong.
+
+In the per-drill settings sheet (gear icon), the **Show answer buttons** toggle hides the button row entirely if you prefer swipe-only mode; in that mode, *Auto-advance after correct* becomes irrelevant (it greys out, because swipe always advances immediately).
 
 Each noun appears exactly once per session regardless of how you rated it.
 

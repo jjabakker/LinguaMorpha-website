@@ -23,13 +23,18 @@ The Word Meanings flashcard test presents Spanish verbs (or their English transl
 
 ### After flipping
 
-Once you tap the card it flips with a 3-D animation to reveal the answer. Three response buttons appear at the bottom:
+Once you tap the card it flips with a 3-D animation to reveal the answer. Grade yourself in either of two ways — the two are fully interchangeable:
+
+- **Swipe** the card — right for Correct, left for Incorrect. The card flies off, the next one appears immediately.
+- **Tap a button** — Correct / Difficult / Incorrect.
 
 | Button | Meaning |
 |---|---|
 | **Correct** (green) | You knew it without hesitation |
 | **Difficult** (orange) | You got there eventually, or were only partially right |
 | **Incorrect** (red) | You did not know the answer or were wrong |
+
+**Difficult** is button-only — there is no swipe direction for it. In the per-drill settings sheet (gear icon), the **Show answer buttons** toggle hides the button row entirely if you prefer swipe-only mode; in that mode, *Auto-advance after correct* becomes irrelevant (it greys out, because swipe always advances immediately).
 
 Every answer is recorded in the local performance database and feeds the adaptive engine, which prioritises weaker verbs in future sessions.
 

@@ -1,39 +1,38 @@
 # Self Study
 
-The Self Study screen lets you choose what type of vocabulary or grammar you want to practise.
+The Self Study screen lets you pick a word type to practise. Each word type has its own hub with **Setup**, **Theory**, **Browse**, and **Drills** — meaning practice and grammar drills live together in one place.
 
 <div class="screenshot-annotated">
 <img src="../../screenshots/self-study.png" alt="Self Study Screen" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
-1. **Verbs** — practise verb meanings, conjugation, gerund, past participle, indefinido, and recognition.
-2. **Nouns** — practise meaning, gender (*el* / *la*), singular / plural, and alternate-gender pairs.
-3. **Phrases** — set phrases and common Spanish expressions: greetings, time/date phrases, social formulas, conversational chunks.
-4. **Words** — single-word vocabulary that isn't a verb or noun: adjectives, adverbs, prepositions, conjunctions, numbers.
+The cards available depend on the active language:
+
+1. **Verbs** — conjugations, meanings, and translations. *(Spanish + Latin)*
+2. **Nouns** — gender, plurals, meanings, and translations. *(Spanish + Latin)*
+3. **Adjectives** — declension paradigms across all three genders. *(Latin only)*
+4. **Pronouns** — personal, demonstrative, relative, and interrogative. *(Latin only)*
+5. **Numerals** — cardinal numbers; the three that decline (*ūnus*, *duo*, *trēs*) get full paradigms, the rest invariant. *(Latin only)*
+6. **Other Vocabulary** — single-word items that aren't verbs or nouns: adverbs, particles, and other closed-class words.
+7. **Phrases** — set phrases and common expressions.
+
+Two peer cards are reference rather than study:
+
+- **Identify a form** — type any conjugated, declined, or vocabulary form and see all matching parses.
+- **Texts** *(Latin only)* — read parser-backed passages with side-by-side translations.
 
 ---
 
-## How Self Study works
+## How each word-type hub works
 
-Each of the four vocabulary sections (Verbs, Nouns, Phrases, Words) has the same internal structure: **Setup**, **Study**, and **Test**.
+Every word-type hub follows the same internal structure: **Setup**, **Theory**, **Browse**, and **Drills**.
 
-- **Setup** — define your word pool (which words are eligible to appear). Filters include CEFR level (A1–C2), frequency, topic, and — for verbs — grammatical group (regular, stem-changing, irregular, reflexive, …).
-- **Study** — browse-only reference: conjugation tables, word lists, grammar notes. Nothing is recorded.
-- **Test** — active practice: flashcards and drills. Every answer is recorded and feeds the adaptive engine.
+- **Setup** — define your word pool (which items are eligible). Filters include CEFR level (A1–C2), frequency, topic, group (regular / irregular / etc.), and — for verbs — tenses.
+- **Theory** — explanatory pages: how a paradigm works, why an irregularity exists, where the gender comes from. Nothing is recorded.
+- **Browse** — read-only catalogue: conjugation tables, declension paradigms, full word lists.
+- **Drills** — active practice. The first drill in every hub is the meaning flashcard (recall the translation). For Verbs, additional drills cover conjugation production / recognition, gerund, past participle, indefinido. For Nouns, additional drills cover article (*el* / *la*), singular ↔ plural, and alternate-gender pairs. Latin Nouns adds declension drills.
 
-Always configure Setup before starting a Test session. If no words are selected, the session will be empty.
-
----
-
-## What each section offers
-
-**Verbs** is the most comprehensive section. It includes a full Setup system for filtering which verbs and tenses you practise, plus six different test types. See the [Verbs Coach](../verbs/) page for details.
-
-**Nouns** is the next most extensive — five test types covering meaning, article (*el*/*la*), plural formation, recall-gender, and alternate-gender pairs. See [Nouns Coach](../nouns/).
-
-**Phrases** is the section for multi-word chunks like *buenos días*, *de vez en cuando*, *encantado*. [Select Phrases](../phrases/select/), browse them, then drill them with flashcards. See [Phrases Coach](../phrases/).
-
-**Words** covers single-word vocabulary that isn't a verb or noun — adjectives, adverbs, prepositions, conjunctions, numbers. Same Setup / Study / Test flow as the rest. See [Words Coach](../words/).
+Always configure Setup before starting a Drill session. If no items are selected, the session will be empty.
 
 ---
 
